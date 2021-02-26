@@ -1,0 +1,535 @@
+# Translation of Plugins - Shared Counts &#8211; Social Media Share Buttons - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Shared Counts &#8211; Social Media Share Buttons - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-11 11:37:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Shared Counts &#8211; Social Media Share Buttons - Stable (latest release)\n"
+
+#: includes/class-shared-counts-front.php:557
+msgid "Share on Yummly"
+msgstr "Deel op Yummly"
+
+#: includes/class-shared-counts-front.php:553
+msgid "Yummly"
+msgstr "Yummly"
+
+#: includes/class-shared-counts-admin.php:1033
+#: includes/class-shared-counts-front.php:821
+msgid "Yummly:"
+msgstr "Yummly:"
+
+#: includes/class-shared-counts-admin.php:753
+msgid "Share Count"
+msgstr "Share Count"
+
+#. translators: %1$s - list of services that support share counts.
+#: includes/class-shared-counts-admin.php:364
+msgid "Buttons that support share counts: %1$s, and Email."
+msgstr "Knoppen die share counts ondersteunen:  %1$s, and e-mail."
+
+#: includes/class-shared-counts-admin.php:228
+msgid "SharedCount.com does not provide Yummly counts. Checking this option will seperately pull Yummly counts from their official API."
+msgstr "SharedCount.com levert geen Yummly tellingen. Wanneer je deze optie aanvinkt worden de tellingen van Yummly apart via hun officiële API binnengehaald."
+
+#: includes/class-shared-counts-admin.php:224
+msgid "Include Yummly Counts"
+msgstr "Voeg de Yummly tellingen toe"
+
+#. Author of the plugin
+msgid "Bill Erickson & Jared Atchison"
+msgstr "Bill Erickson & Jared Atchison"
+
+#. Description of the plugin
+msgid "Social sharing buttons that look great and keep your site loading fast."
+msgstr "Deelknoppen voor social media sites die er goed uit zien en je site snel houden."
+
+#: shared-counts.php:76
+msgid "Shared Counts requires PHP 5.6+. Contact your web host to update."
+msgstr "Shared Counts heeft minimaal PHP 5.6+ nodig. Neem contact op met je webhost om te updaten."
+
+#: includes/class-shared-counts-front.php:586
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/class-shared-counts-front.php:580
+msgid "Print this Page"
+msgstr "Print deze pagina"
+
+#: includes/class-shared-counts-front.php:578
+msgid "Print"
+msgstr "Print"
+
+#: includes/class-shared-counts-front.php:567
+msgid "Share on LinkedIn"
+msgstr "Deel op LinkedIn"
+
+#: includes/class-shared-counts-front.php:563
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: includes/class-shared-counts-front.php:547
+msgid "Share on Pinterest"
+msgstr "Deel op Pinterest"
+
+#: includes/class-shared-counts-front.php:543
+msgid "Pin"
+msgstr "Pin"
+
+#: includes/class-shared-counts-front.php:537
+msgid "Share on Twitter"
+msgstr "Deel op Twitter"
+
+#: includes/class-shared-counts-front.php:533
+msgid "Tweet"
+msgstr "Tweet"
+
+#: includes/class-shared-counts-front.php:523
+#: includes/class-shared-counts-front.php:573
+msgid "Share"
+msgid_plural "Shares"
+msgstr[0] "Deel"
+msgstr[1] ""
+
+#: includes/class-shared-counts-front.php:517
+msgid "Like on Facebook"
+msgstr "Like op Facebook"
+
+#: includes/class-shared-counts-front.php:513
+msgid "Like"
+msgstr "Vind ik leuk"
+
+#: includes/class-shared-counts-front.php:507
+#: includes/class-shared-counts-front.php:527
+msgid "Share on Facebook"
+msgstr "Deel op Facebook"
+
+#: includes/class-shared-counts-front.php:503
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/class-shared-counts-front.php:308
+msgid "Email sent!"
+msgstr "E-mail is verzonden!"
+
+#: includes/class-shared-counts-front.php:263
+msgid "Send Email"
+msgstr "Verstuur e-mail"
+
+#: includes/class-shared-counts-front.php:259
+msgid "Comments"
+msgstr "Reacties"
+
+#: includes/class-shared-counts-front.php:258
+msgid "Your Email Address"
+msgstr "Jouw e-mail adres"
+
+#: includes/class-shared-counts-front.php:257
+msgid "Your Name"
+msgstr "Jouw naam"
+
+#: includes/class-shared-counts-front.php:256
+msgid "Friend's Email Address"
+msgstr "E-mail adres van je vriend"
+
+#: includes/class-shared-counts-front.php:254
+msgid "Like this article? Email it to a friend!"
+msgstr "Vind je dit een leuk bericht? E-mail het naar een vriend!"
+
+#: includes/class-shared-counts-front.php:253
+msgid "Share this Article"
+msgstr "Deel dit bericht"
+
+#: includes/class-shared-counts-front.php:209
+msgid "Article successfully shared."
+msgstr "Bericht is succesvol gedeeld."
+
+#: includes/class-shared-counts-front.php:208
+msgid "Please complete out all 3 fields to email this article."
+msgstr "Vul alle drie velden in om dit bericht te delen."
+
+#: includes/class-shared-counts-core.php:767
+msgid "HTTP"
+msgstr "HTTP"
+
+#: includes/class-shared-counts-core.php:760
+msgid "HTTPS"
+msgstr "HTTPS"
+
+#. translators: %1$s - Name of the person who shared the article.
+#: includes/class-shared-counts-core.php:113
+msgid "Your friend %1$s has shared an article with you."
+msgstr "Je vriend %1$s heeft een bericht met je gedeeld."
+
+#: includes/class-shared-counts-core.php:94
+msgid "Incorrect reCAPTCHA, please try again."
+msgstr "Incorrecte reCAPTCHA, probeer het nog eens."
+
+#: includes/class-shared-counts-core.php:88
+msgid "reCAPTCHA is required."
+msgstr "reCAPTCHA is verplicht."
+
+#: includes/class-shared-counts-core.php:78
+msgid "Email not enabled."
+msgstr "E-mail niet geactiveerd."
+
+#: includes/class-shared-counts-core.php:71
+msgid "Invalid email."
+msgstr "Ongeldig e-mail adres"
+
+#: includes/class-shared-counts-core.php:66
+msgid "Required field missing."
+msgstr "Verplicht veld ontbreekt."
+
+#: includes/class-shared-counts-core.php:61
+msgid "Honeypot triggered."
+msgstr "Honeypot is getriggerd."
+
+#: includes/class-shared-counts-admin.php:1301
+msgid "share"
+msgid_plural "shares"
+msgstr[0] "keer gedeeld"
+msgstr[1] "aantal keren gedeeld"
+
+#: includes/class-shared-counts-admin.php:1262
+msgid "Most Shared Content"
+msgstr "Meeste keer gedeeld"
+
+#: includes/class-shared-counts-admin.php:1185
+msgid "Adding..."
+msgstr "Wordt toegevoegd..."
+
+#: includes/class-shared-counts-admin.php:1182
+msgid "Updating..."
+msgstr "Wordt bijgewerkt..."
+
+#: includes/class-shared-counts-admin.php:1188
+msgid "Enter the nickname for the URL."
+msgstr "Voeg een nickname toe voor de URL."
+
+#: includes/class-shared-counts-admin.php:1187
+msgid "E.g. http://your-domain.com/some-old-post-url"
+msgstr "Bijvoorbeeld: http://zomaar-een-domein.nl/zomaar-een-oude-url"
+
+#: includes/class-shared-counts-admin.php:1041
+msgid "Disable API updates."
+msgstr "API updates uitzetten."
+
+#: includes/class-shared-counts-admin.php:1036
+#: includes/class-shared-counts-front.php:829
+msgid "Email:"
+msgstr "E-mail:"
+
+#: includes/class-shared-counts-admin.php:1032
+#: includes/class-shared-counts-front.php:816
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: includes/class-shared-counts-admin.php:1031
+#: includes/class-shared-counts-front.php:811
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: includes/class-shared-counts-admin.php:1030
+#: includes/class-shared-counts-front.php:806
+msgid "Facebook Comments:"
+msgstr "Facebook reacties:"
+
+#: includes/class-shared-counts-admin.php:1029
+#: includes/class-shared-counts-front.php:801
+msgid "Facebook Shares:"
+msgstr "Facebook Shares:"
+
+#: includes/class-shared-counts-admin.php:1028
+#: includes/class-shared-counts-front.php:796
+msgid "Facebook Likes:"
+msgstr "Facebook Likes:"
+
+#: includes/class-shared-counts-admin.php:1027
+#: includes/class-shared-counts-front.php:791
+msgid "Facebook Total:"
+msgstr "Facebook Totaal:"
+
+#: includes/class-shared-counts-admin.php:1017
+msgid "Toggle count group"
+msgstr "Toon/verberg tellingen groep"
+
+#: includes/class-shared-counts-admin.php:1015
+msgid "Delete count group"
+msgstr "Verwijder tellingen groep"
+
+#: includes/class-shared-counts-admin.php:988
+msgid "Total"
+msgstr "Totaal"
+
+#: includes/class-shared-counts-admin.php:962
+msgid "Don't display buttons on this"
+msgstr "Toon hier geen knoppen"
+
+#: includes/class-shared-counts-admin.php:952
+#: includes/class-shared-counts-admin.php:1183
+msgid "Refresh Counts"
+msgstr "Ververs tellingen"
+
+#: includes/class-shared-counts-admin.php:946
+#: includes/class-shared-counts-admin.php:1184
+msgid "Add URL"
+msgstr "Voeg URL toe"
+
+#: includes/class-shared-counts-admin.php:937
+msgid "No share counts downloaded for this post."
+msgstr "Geen share counts gedownload voor dit bericht."
+
+#: includes/class-shared-counts-admin.php:932
+msgid "Last updated"
+msgstr "Laatst bijgewerkt"
+
+#: includes/class-shared-counts-admin.php:896
+msgid "Post must be published to view share counts."
+msgstr "Berichten moeten gepubliceerd zijn om share counts te zien."
+
+#: includes/class-shared-counts-admin.php:712
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/class-shared-counts-admin.php:580
+msgid "Select services..."
+msgstr "Selecteer services..."
+
+#: includes/class-shared-counts-admin.php:521
+msgid "Save Changes"
+msgstr "Sla wijzigingen op"
+
+#: includes/class-shared-counts-admin.php:513
+msgid "Which content type(s) you would like to display the share buttons on."
+msgstr "Voor welke content soorten wil je deel knoppen tonen?"
+
+#: includes/class-shared-counts-admin.php:486
+msgid "Supported Post Types"
+msgstr "Ondersteunde Post Types"
+
+#: includes/class-shared-counts-admin.php:479
+msgid "Automagically add the share buttons before and/or after your post content."
+msgstr "Automagisch de deel knoppen toevoegen voor en/of na je content van je bericht."
+
+#: includes/class-shared-counts-admin.php:466
+msgid "Before and After Content"
+msgstr "Voor en na je de content"
+
+#: includes/class-shared-counts-admin.php:465
+msgid "After Content"
+msgstr "Na de content"
+
+#: includes/class-shared-counts-admin.php:464
+msgid "Before Content"
+msgstr "Voor de content"
+
+#: includes/class-shared-counts-admin.php:458
+msgid "Theme Location"
+msgstr "Thema locatie"
+
+#. translators: %1$s - opening link tag; %2$s - closing link tag.
+#: includes/class-shared-counts-admin.php:439
+msgid "Multiple share button styles are available; see the %1$splugin page%2$s for screenshots."
+msgstr "Er zijn verschillende knop stijlsoorten beschikbaar; kijk op de %1$splugin pagina%2$s voor voorbeelden."
+
+#: includes/class-shared-counts-admin.php:421
+msgid "Icon"
+msgstr "Icoon"
+
+#: includes/class-shared-counts-admin.php:420
+msgid "Buttons"
+msgstr "Knoppen"
+
+#: includes/class-shared-counts-admin.php:419
+msgid "Rounded"
+msgstr "Afgerond"
+
+#: includes/class-shared-counts-admin.php:418
+msgid "Bar"
+msgstr "Balk"
+
+#: includes/class-shared-counts-admin.php:417
+msgid "Block"
+msgstr "Blok"
+
+#: includes/class-shared-counts-admin.php:416
+msgid "Classic"
+msgstr "Klassiek"
+
+#: includes/class-shared-counts-admin.php:415
+msgid "Slim"
+msgstr "Smal"
+
+#: includes/class-shared-counts-admin.php:414
+msgid "Fancy"
+msgstr "Luxe"
+
+#: includes/class-shared-counts-admin.php:407
+msgid "Share Button Style"
+msgstr "Deel knop stijl"
+
+#: includes/class-shared-counts-admin.php:400
+msgid "After signing up for Google's v2 reCAPTCHA (free), provide your secret key here."
+msgstr "Nadat je je aan hebt gemeld voor Google's v2 reCAPTCHA (gratis), kun je hier je secret key kwijt."
+
+#: includes/class-shared-counts-admin.php:396
+msgid "reCAPTCHA Secret Key"
+msgstr "reCAPTCHA Secret Key"
+
+#: includes/class-shared-counts-admin.php:389
+msgid "Learn more."
+msgstr "Leer meer."
+
+#: includes/class-shared-counts-admin.php:389
+msgid "After signing up for Google's v2 reCAPTCHA (free), provide your site key here."
+msgstr "Nadat je je aan hebt gemeld voor Google's v2 reCAPTCHA (gratis), kun je hier je site key kwijt."
+
+#: includes/class-shared-counts-admin.php:1189
+msgid "E.g. \"Post title typo\""
+msgstr "Bijvoorbeeld: \"Bericht titel typefout\""
+
+#: includes/class-shared-counts-admin.php:1186
+msgid "Enter the full URL you would like to track."
+msgstr "Vul de volledige URL in die je wilt volgen."
+
+#: includes/class-shared-counts-admin.php:1104
+msgid "URL deleted; Share counts updated."
+msgstr "URL verwijderd, Share counts bijgewerkt."
+
+#: includes/class-shared-counts-admin.php:1090
+msgid "New URL added; Share counts updated."
+msgstr "Nieuwe URL toegevoegd; Share counts bijgewerkt."
+
+#: includes/class-shared-counts-admin.php:1080
+msgid "Share counts updated."
+msgstr "Share counts bijgewerkt."
+
+#: includes/class-shared-counts-admin.php:1072
+msgid "You do not have permission."
+msgstr "Hier heb je geen toestemming voor."
+
+#: includes/class-shared-counts-admin.php:1062
+msgid "Failed security."
+msgstr "Beveiliging is niet gelukt."
+
+#: includes/class-shared-counts-admin.php:385
+msgid "reCAPTCHA Site Key"
+msgstr "reCAPTCHA Site Key"
+
+#: includes/class-shared-counts-admin.php:374
+msgid "Enable Email reCAPTCHA"
+msgstr "E-mail reCAPTCHA aanzetten"
+
+#: includes/class-shared-counts-admin.php:318
+msgid "Share Buttons to Display"
+msgstr "Deel knoppen die je wilt tonen"
+
+#: includes/class-shared-counts-admin.php:312
+msgid "Display"
+msgstr "Toon"
+
+#: includes/class-shared-counts-admin.php:296
+msgid "Preserve HTTP Counts"
+msgstr "HTTP tellingen bewaren"
+
+#: includes/class-shared-counts-admin.php:288
+msgid "Optionally, empty counts (0) can be hidden."
+msgstr "Optioneel kunnen legen tellingen (0) niet getoond worden."
+
+#: includes/class-shared-counts-admin.php:284
+msgid "Hide Empty Counts"
+msgstr "Verberg lege tellingen"
+
+#: includes/class-shared-counts-admin.php:273
+msgid "Count Total Only"
+msgstr "Tel enkel de totalen"
+
+#: includes/class-shared-counts-admin.php:266
+msgid "Follow these instructions."
+msgstr "Volg deze instructies."
+
+#: includes/class-shared-counts-admin.php:262
+msgid "Facebook Access Token"
+msgstr "Facebook Access Token"
+
+#: includes/class-shared-counts-admin.php:213
+msgid "Include Twitter Counts"
+msgstr "Twitter tellingen toevoegen"
+
+#: includes/class-shared-counts-admin.php:202
+msgid "SharedCount API Key"
+msgstr "SharedCount API Key"
+
+#: includes/class-shared-counts-admin.php:151
+msgid "SharedCount.com"
+msgstr "SharedCount.com"
+
+#: includes/class-shared-counts-admin.php:152
+msgid "Native"
+msgstr "Ingebouwd"
+
+#: includes/class-shared-counts-admin.php:150
+#: includes/class-shared-counts-admin.php:463
+msgid "None"
+msgstr "Geen"
+
+#: includes/class-shared-counts-admin.php:145
+msgid "Count Source"
+msgstr "Bron van tellingen"
+
+#: includes/class-shared-counts-admin.php:139
+#: includes/class-shared-counts-admin.php:876
+msgid "Share Counts"
+msgstr "Share Counts"
+
+#. Plugin Name of the plugin
+#: includes/class-shared-counts-admin.php:90
+msgid "Shared Counts"
+msgstr "Shared Counts"
+
+#: includes/class-shared-counts-admin.php:90
+msgid "Shared Counts Settings"
+msgstr "Shared Counts Instellingen"
+
+#: includes/class-shared-counts-admin.php:235
+msgid "Retrieve Share Counts From"
+msgstr "Share Counts ophalen van:"
+
+#: includes/class-shared-counts-admin.php:165
+msgid "This determines the source of the share counts."
+msgstr "Dit bepaalt de bron van de share counts."
+
+#: includes/class-shared-counts-admin.php:1190
+msgid "Are you sure you want to remove this URL group and the associated share counts?"
+msgstr "Weet je zeker dat je deze URL groep en de daaraan gerelateerde share counts wilt verwijderen?"
+
+#: includes/class-shared-counts-admin.php:378
+msgid "Highly recommended, Google's v2 reCAPTCHA will protect the email sharing feature from abuse."
+msgstr "We raden je ten zeerste aan om Google's v2 reCAPTCHA te gebruiken om het misbruik van het delen via e-mail te voorkomen."
+
+#: includes/class-shared-counts-admin.php:266
+msgid "If you have trouble receiving Facebook counts, you may need to setup an access token."
+msgstr "Als je problemen hebt om Facebook tellingen binnen te halen, dan moet je mogelijk een access token instellen."
+
+#: includes/class-shared-counts-admin.php:254
+msgid "Each service requires a separate API request, so using many services could cause performance issues. Alternately, consider using SharedCounts for the count source."
+msgstr "Elke service vraagt een aparte API request, dus wanneer je meerdere services gebruikt kan tot performance problemen leiden. Als alternatief kun je ShardCounts gebruiken voor de tellingen."
+
+#: includes/class-shared-counts-admin.php:255
+msgid "Twitter does provide counts; Twitter share counts will pull from twitcount.com, which is the service that tracks Twitter counts."
+msgstr "Twitter kan tellingen aanleveren; Twitter share counts worden binnengehaald via twitcount.com, een dienst die Twitter tellingen bijhoudt."
+
+#: includes/class-shared-counts-admin.php:217
+msgid "SharedCount.com does not provide Twitter counts. Checking this option will seperately pull Twitter counts from twitcount.com, which is the service that tracks Twitter counts."
+msgstr "SharedCount.com ondersteunt geen Twitter tellingen. Wanneer je deze optie aanzet worden Twitter tellingen binnengehaald via twitcount.com, een dienst die twitter tellingen bijhoudt."
+
+#. translators: %1$s - opening link tag; %2$s - closing link tag.
+#: includes/class-shared-counts-admin.php:115
+msgid "Welcome to Shared Counts. Please see %1$sthe documentation%2$s for more information."
+msgstr "Welkom bij Shared Counts. Bekijk %1$sde documentatie%2$s voor meer informatie."

@@ -1,0 +1,2012 @@
+# Translation of Plugins - WordPress Page Builder &#8211; Beaver Builder - Development (trunk) in Polish
+# This file is distributed under the same license as the Plugins - WordPress Page Builder &#8211; Beaver Builder - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-10-07 22:09:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - WordPress Page Builder &#8211; Beaver Builder - Development (trunk)\n"
+
+#: includes/row-settings.php:555
+msgid "Ken Burns"
+msgstr "Ken Burns"
+
+#: includes/row-settings.php:556
+msgid "Slide Horizontal"
+msgstr "Przesuwanie poziome"
+
+#: includes/row-settings.php:557
+msgid "Slide Vertical"
+msgstr "Przesuwanie pionowe"
+
+#: includes/row-settings.php:558
+msgid "Blinds"
+msgstr "Roleta"
+
+#: includes/row-settings.php:559
+msgid "Bars"
+msgstr "Pasy"
+
+#: includes/row-settings.php:560
+msgid "Random Bars"
+msgstr "Losowe pasy"
+
+#: includes/row-settings.php:561
+msgid "Boxes"
+msgstr "Boksy"
+
+#: includes/row-settings.php:562
+msgid "Random Boxes"
+msgstr "Losowe boksy"
+
+#: includes/row-settings.php:563
+msgid "Boxes Grow"
+msgstr "Rosnące boksy"
+
+#: includes/row-settings.php:571
+msgid "Transition Speed"
+msgstr "Szybkość animacji"
+
+#: includes/row-settings.php:583
+msgid "Randomize Photos"
+msgstr "Wyświetlaj zdjęcia losowo"
+
+#: includes/row-settings.php:596
+msgid "Background Parallax"
+msgstr "Efekt Parallax"
+
+#: includes/row-settings.php:612
+msgid "Fast"
+msgstr "Szybko"
+
+#: includes/row-settings.php:613
+msgctxt "Speed."
+msgid "Medium"
+msgstr "Średnio"
+
+#: includes/row-settings.php:614
+msgid "Slow"
+msgstr "Wolno"
+
+#: includes/row-settings.php:879
+msgid "A unique ID that will be applied to this row's HTML. Must start with a letter and only contain dashes, underscores, letters or numbers. No spaces."
+msgstr "Unikalny udentyfikator (ID), który będzie dodany do kodu HTML tego wiersza. Musi zaczynać się od litery i zaiwrać tylko myślniki, podkreślniki, liczby i litery. Nie używaj spacji."
+
+#: includes/row-settings.php:887
+msgid "A class that will be applied to this row's HTML. Must start with a letter and only contain dashes, underscores, letters or numbers. Separate multiple classes with spaces."
+msgstr "Klasa CSS, która będzie dodana do kodu HTML tego wiersza. Musi zaczynać się od litery i zaiwrać tylko myślniki, podkreślniki, liczby i litery. Jeśli chcesz wpisać kilka klas, oddziel je spacjami."
+
+#: includes/ui-service-settings.php:36
+msgid "Service"
+msgstr "Usługa"
+
+#: includes/ui-js-config.php:188
+msgid "Save"
+msgstr "Zapisz"
+
+#: classes/class-fl-builder-admin-settings.php:237
+#: classes/class-fl-builder.php:1207
+msgid "Tools"
+msgstr "Narzędzia"
+
+#: classes/class-fl-builder-model.php:3685
+msgid "1 Column"
+msgstr "1 kolumna"
+
+#: classes/class-fl-builder-model.php:3690
+msgid "2 Columns"
+msgstr "2 kolumny"
+
+#: classes/class-fl-builder-model.php:3695
+msgid "3 Columns"
+msgstr "3 kolumny"
+
+#: classes/class-fl-builder-model.php:3700
+msgid "4 Columns"
+msgstr "4 kolumny"
+
+#: classes/class-fl-builder-model.php:3705
+msgid "5 Columns"
+msgstr "5 kolumn"
+
+#: classes/class-fl-builder-model.php:3710
+msgid "6 Columns"
+msgstr "6 kolumn"
+
+#: classes/class-fl-builder-model.php:3715
+msgid "Left Sidebar"
+msgstr "Lewa kolumna boczna"
+
+#: classes/class-fl-builder-model.php:3720
+msgid "Right Sidebar"
+msgstr "Prawa kolumna boczna"
+
+#: includes/updater/classes/class-fl-updater.php:442
+msgid "Please subscribe to enable automatic updates for this plugin."
+msgstr "Zpisz się na automatyczne aktualizacje pluginu."
+
+#: includes/updater/classes/class-fl-updater.php:473
+#: includes/updater/includes/form.php:15
+msgid "Subscribe Now"
+msgstr "Zamów teraz"
+
+#: includes/updater/includes/form.php:29
+msgid "Updates &amp; Support Subscription"
+msgstr "Uaktualnienia i wsparcie techniczne"
+
+#: includes/updater/includes/form.php:36
+msgid "Active!"
+msgstr "Aktywne!"
+
+#: includes/updater/includes/form.php:32
+msgid "Not Active!"
+msgstr "Nieaktywne!"
+
+#: includes/ui-field-link.php:15
+msgid "New Window"
+msgstr "W nowym oknie"
+
+#: modules/icon/icon.php:130
+msgid "Alignment"
+msgstr "Wyrównanie"
+
+#: modules/photo/photo.php:647
+msgid "Crop"
+msgstr "Kadruj"
+
+#: modules/photo/photo.php:651
+msgid "Landscape"
+msgstr "Krajobraz"
+
+#: modules/photo/photo.php:652
+msgid "Panorama"
+msgstr "Panorama"
+
+#: modules/photo/photo.php:653
+msgid "Portrait"
+msgstr "Portret"
+
+#: modules/photo/photo.php:654
+msgid "Square"
+msgstr "Kwadrat"
+
+#: classes/class-fl-builder-art.php:75 modules/photo/photo.php:655
+msgid "Circle"
+msgstr "Okrąg"
+
+#: modules/audio/audio.php:118 modules/video/video.php:356
+msgid "Auto Play"
+msgstr "Autoodtwarzanie"
+
+#: modules/photo/photo.php:571 includes/module-settings.php:64
+#: includes/row-settings.php:816 includes/column-settings.php:430
+msgid "Never"
+msgstr "Nigdy"
+
+#: modules/photo/photo.php:572
+msgid "On Hover"
+msgstr "Po najehcniu myszką"
+
+#: modules/photo/photo.php:573
+msgid "Below Photo"
+msgstr "Poniżej zdjęcia"
+
+#: modules/button/button.php:233 modules/photo/photo.php:608
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: modules/html/html.php:13 modules/button/button.php:269
+msgid "HTML"
+msgstr "HTML"
+
+#: modules/html/html.php:14
+msgid "Display raw HTML code."
+msgstr "Moduł do wyświetlania czystego kodu HTML."
+
+#: modules/photo/photo.php:25
+msgid "Upload a photo or display one from the media library."
+msgstr "Wczytaj zdjęcie z dysku lub wybierz z Biblioteki Mediów."
+
+#: modules/photo/photo.php:511 includes/row-settings.php:231
+msgid "Photo Source"
+msgstr "Źródło zdjęcia"
+
+#: modules/photo/photo.php:515 modules/photo/photo.php:607
+#: includes/row-settings.php:235
+msgid "URL"
+msgstr "URL"
+
+#: modules/photo/photo.php:540 includes/row-settings.php:251
+msgid "Photo URL"
+msgstr "URL zdjęcia"
+
+#: modules/photo/photo.php:541
+msgid "http://www.example.com/my-photo.jpg"
+msgstr "http://www.przyklad.pl/moje-zdjecie.jpg"
+
+#: modules/photo/photo.php:564 modules/photo/photo.php:592
+msgid "Caption"
+msgstr "Etykieta"
+
+#: modules/photo/photo.php:568
+msgid "Show Caption"
+msgstr "Pokaż etykietę"
+
+#: modules/photo/photo.php:604
+msgid "Link Type"
+msgstr "Rozdaj linka"
+
+#: modules/photo/photo.php:606
+msgctxt "Link type."
+msgid "None"
+msgstr "Brak"
+
+#: modules/photo/photo.php:609
+msgid "Photo File"
+msgstr "Plik zdjęcia"
+
+#: modules/photo/photo.php:620
+msgid "Link type applies to how the image should be linked on click. You can choose a specific URL, the individual photo or a separate page with the photo."
+msgstr "Typ linka określ, jak będzie podlinkowany obraz. Możesz wybrać między podlinkowaniem konkretnego adresu URL, pojedynczego zdjęcia lub osobnej strony ze zdjęciem."
+
+#: modules/photo/photo.php:627
+msgid "Link URL"
+msgstr "URL linka"
+
+#: modules/audio/audio.php:130 modules/video/video.php:368
+msgid "Loop"
+msgstr "Zapętlanie"
+
+#: modules/rich-text/rich-text.php:14
+msgid "A WYSIWYG text editor."
+msgstr "Edytor wizualny"
+
+#: modules/sidebar/includes/settings-general.php:5
+#: modules/sidebar/sidebar.php:13
+msgid "Sidebar"
+msgstr "Kolumna boczna (sidebar)"
+
+#: modules/sidebar/sidebar.php:14
+msgid "Display a WordPress sidebar that has been registered by the current theme."
+msgstr "Wyświetl kolumnę  boczną (sidebar) z Wordpressa (musisz ją najpierw stworzyć w panelu Wordpressa)."
+
+#: modules/video/video.php:19
+msgid "Render a WordPress or embedable video."
+msgstr "Wstaw wideo z biblioteki lub z zewnętrznego serwisu."
+
+#: modules/video/video.php:299
+msgid "Video Type"
+msgstr "Typ wideo"
+
+#: modules/video/video.php:303
+msgid "Embed"
+msgstr "Osadzone (z zewnętrznego serwisu)"
+
+#: modules/video/video.php:351
+msgctxt "Video preview/fallback image."
+msgid "Poster"
+msgstr "Podgląd wideo"
+
+#. translators: %s: widget slug
+#: modules/widget/includes/frontend.php:53
+#: modules/widget/includes/settings-general.php:44
+msgctxt "%s stands for widget slug."
+msgid "%s no longer exists."
+msgstr "%s nie istnieje."
+
+#: modules/widget/widget.php:13 modules/widget/includes/settings-general.php:38
+#: includes/ui-js-config.php:237 includes/ui-js-config.php:269
+msgid "Widget"
+msgstr "Widget"
+
+#: modules/widget/widget.php:14
+msgid "Display a WordPress widget."
+msgstr "Wyświetla wordpressowy widget."
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-infusionsoft.php:286
+msgid "There was an error subscribing to Infusionsoft. %s"
+msgstr "Wystąpił błąd podczas łączenia się z Infusionsoft. %s"
+
+#: classes/class-fl-builder-service-madmimi.php:77
+msgid "Unable to connect to Mad Mimi. Please check your credentials."
+msgstr "Nie udało się połaczyć z MadMini. Sprawdź swoje dane."
+
+#: classes/class-fl-builder-service-madmimi.php:103
+msgid "The email address associated with your Mad Mimi account."
+msgstr "Adres email powiązany z twoim kontem Mad Mimi."
+
+#: classes/class-fl-builder-service-madmimi.php:114
+msgid "Your API key can be found in your Mad Mimi account under Account > Settings &amp; Billing > API."
+msgstr "Twój Api"
+
+#: classes/class-fl-builder-service-madmimi.php:147
+#: classes/class-fl-builder-service-godaddy-email-marketing.php:145
+msgid "There was a problem retrieving your lists. Please check your API credentials."
+msgstr "Wystąpił problem z odzyskiwaniem Twoich list. Sprawdź poprawność API."
+
+#: classes/class-fl-builder-service-madmimi.php:207
+#: classes/class-fl-builder-service-madmimi.php:233
+msgid "There was an error subscribing to Mad Mimi. The account is no longer connected."
+msgstr "Wystąpił błąd podczas łączenia się z Mad Mimi. Konto nie jest już połączone."
+
+#: classes/class-fl-builder-service-mailchimp.php:108
+msgid "Your API key can be found in your MailChimp account under Account > Extras > API Keys."
+msgstr "Twój API key znajdziesz na swoim koncie MailChimp w sekcji ccount > Extras > API keys."
+
+#: classes/class-fl-builder-service-mailchimp.php:222
+msgid "No Group"
+msgstr "Brak grupy"
+
+#: classes/class-fl-builder-service-mailchimp.php:235
+msgctxt "MailChimp list group."
+msgid "Groups"
+msgstr "Grupy"
+
+#: classes/class-fl-builder-service-mailchimp.php:264
+msgid "There was an error subscribing to MailChimp. The account is no longer connected."
+msgstr "Wystąpił błąd podczas łączenia się z MailChimp. Konto nie jest już połączone."
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-mailchimp.php:355
+msgid "There was an error subscribing to MailChimp. %s"
+msgstr "Wystąpił błąd podczas łączenia się z Infusionsoft. %s"
+
+#: classes/class-fl-builder-service-mailpoet.php:91
+msgid "There was an error retrieveing your lists."
+msgstr "Wystąpił problem z odzyskiwaniem Twoich list."
+
+#: classes/class-fl-builder-service-mailpoet.php:153
+msgid "There was an error subscribing. MailPoet is not installed."
+msgstr "Wystąił błąd podczas łączenia się. MailPoet nie jest zainstalowany."
+
+#: classes/class-fl-builder-service-sendinblue.php:65
+msgid "Error: You must provide an Access Key."
+msgstr "Błąd: Musisz podać AccessKey."
+
+#: classes/class-fl-builder-service-sendinblue.php:72
+#: classes/class-fl-builder-service-sendinblue.php:131
+msgid "There was an error connecting to SendinBlue. Please try again."
+msgstr "Wystąpił błąd podczas łaczenia się z SendinBlue. Spróbuj ponownie."
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-sendinblue.php:75
+#: classes/class-fl-builder-service-sendinblue.php:134
+msgid "Error: Could not connect to SendinBlue. %s"
+msgstr "Błąd: Nie udało się połączyć z SendinBlue. %s"
+
+#: classes/class-fl-builder-service-sendinblue.php:99
+msgid "Access Key"
+msgstr "Access Key"
+
+#: classes/class-fl-builder-service-sendinblue.php:100
+msgid "Your Access Key can be found in your SendinBlue account under API & Integration > Manager Your Keys > Version 2.0 > Access Key."
+msgstr "Twój Acces Key znajdziesz na koncie SendinBlue w sekcji API & Integration > Manager Your Keys > Version 2.0 >Access Key."
+
+#: classes/class-fl-builder-service-sendinblue.php:194
+msgid "There was an error subscribing to SendinBlue. The account is no longer connected."
+msgstr "Wystąpił problem z odzyskiwaniem Twoich list"
+
+#: classes/class-fl-builder-service-sendinblue.php:225
+msgid "There was an error subscribing to SendinBlue. Please try again."
+msgstr "Wystąpił błąd podczas łączenia się z SendinBlue. Spróbuj ponownie."
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-sendinblue.php:228
+msgid "Error: Could not subscribe to SendinBlue. %s"
+msgstr "Błąd: Nie udało się połaczyć z SendinBlue. %s"
+
+#: classes/class-fl-builder-services.php:236
+msgctxt "Third party service such as MailChimp."
+msgid "Error: Missing service type."
+msgstr "Błąd: Brakujący typ usługi."
+
+#: classes/class-fl-builder-services.php:238
+msgctxt "Connection data such as an API key."
+msgid "Error: Missing service data."
+msgstr "Błąd: Brakujące informacje o usłudze."
+
+#: classes/class-fl-builder-services.php:240
+msgctxt "Account name for a third party service such as MailChimp."
+msgid "Error: Missing account name."
+msgstr "Błąd: Brakująca nazwa konta"
+
+#: classes/class-fl-builder-services.php:249
+msgctxt "Account name for a third party service such as MailChimp."
+msgid "Error: An account with that name already exists."
+msgstr "Błąd: Konto o takiej nazwie już istnieje."
+
+#: classes/class-fl-builder-services.php:320
+msgid "Account Name"
+msgstr "Nazwa konta"
+
+#: classes/class-fl-builder-services.php:321
+msgid "Used to identify this connection within the accounts list and can be anything you like."
+msgstr "Nazwa konta pojawi się na liście połączeń. Możesz wpisać cokolwiek chcesz."
+
+#: classes/class-fl-builder-services.php:334
+msgid "Connect"
+msgstr "Połącz"
+
+#: classes/class-fl-builder-services.php:363
+msgid "Add Account..."
+msgstr "Dodaj konto..."
+
+#: classes/class-fl-builder-services.php:370
+msgid "Account"
+msgstr "Konto"
+
+#. translators: %s: field name to add
+#. translators: %s: field name
+#: classes/class-fl-builder-ui-settings-forms.php:964
+#: includes/ui-js-config.php:97
+msgctxt "Field name to add."
+msgid "Add %s"
+msgstr "Dodaj %s"
+
+#: modules/rich-text/rich-text.php:13 includes/admin-posts.php:4
+msgid "Text Editor"
+msgstr "Edytor tekstu"
+
+#. translators: %s: branded builder name
+#: includes/admin-posts.php:13
+msgctxt "%s stands for custom branded \"Page Builder\" name."
+msgid "Launch %s"
+msgstr "Uruchom %s"
+
+#: includes/admin-settings-tools.php:9 includes/admin-settings-tools.php:11
+#: includes/admin-settings-tools.php:162 includes/admin-settings-tools.php:164
+#: includes/updater/includes/form.php:56
+msgid "NOTE:"
+msgstr "WAŻNE:"
+
+#: includes/admin-settings-tools.php:9 includes/admin-settings-tools.php:164
+#: includes/updater/includes/form.php:56
+msgid "This applies to all sites on the network."
+msgstr "Odnosi się do wszystkich stron w sieci."
+
+#: includes/admin-settings-tools.php:11
+msgid "This only applies to this site. Please visit the Network Admin Settings to clear the cache for all sites on the network."
+msgstr "To pole dotyczy tylko tej strony. Odwiedź ustawienia sieci administratora aby wyczyścić pamięć podręczną dla wszystkich stron w sieci."
+
+#: includes/admin-settings-tools.php:16
+msgid "Clear Cache"
+msgstr "Wyczyść pamięć podręczną"
+
+#: includes/admin-settings-modules.php:55
+#: includes/admin-settings-post-types.php:10
+#: includes/admin-settings-user-access.php:19
+msgid "Override network settings?"
+msgstr "Nadpisać ustawienia sieci?"
+
+#: includes/admin-settings-js-config.php:14
+msgid "Select File"
+msgstr "Zaznacz plik"
+
+#: includes/admin-settings-tools.php:7
+msgid "A CSS and JavaScript file is dynamically generated and cached each time you create a new layout. Sometimes the cache needs to be refreshed when you migrate your site to another server or update to the latest version. If you are running into any issues, please try clearing the cache by clicking the button below."
+msgstr "Pliki CSS i JavaScript są dynamicznie generowane i zapisywane w pamięci podręcznej za każdym razem gdy stworzysz nowy układ strony. Czasami pamięć podręczna musi być odświeżona gdy przenosisz stronę z jednego serwera na drugi lub uaktualniasz plugin do nowszej wersji. Jeśli masz problemy z działaniem kreatora, spróbuj wyczyścić pamięć podręczną klikając przycisk znajdujący się poniżej."
+
+#: includes/admin-settings-js-config.php:15
+msgid "Please type \"uninstall\" in the box below to confirm that you really want to uninstall the page builder and all of its data."
+msgstr "Wpisz w polę poniżej słowo \"uninstall\" aby potwierdzić, że naprawdę chcesz odinstalować kreatora stron i wszystkie jego dane."
+
+#: includes/admin-settings-modules.php:48
+msgid "Enabled Modules"
+msgstr "Włączone moduły"
+
+#: includes/admin-settings-modules.php:61
+msgid "Check or uncheck modules below to enable or disable them."
+msgstr "Zaznacz lub odznacz moduły znajdujące się poniżej, aby je włączać lub wyłączać."
+
+#: includes/admin-settings-modules.php:72
+msgctxt "Plugin setup page: Modules."
+msgid "All"
+msgstr "Wszystkie"
+
+#: includes/admin-settings-modules.php:121
+msgid "Save Module Settings"
+msgstr "Zapisz ustawienia modułów"
+
+#: includes/admin-settings-post-types.php:18
+msgid "Enter a comma separated list of the post types you would like the builder to work with."
+msgstr "Podaj listę typów postów (oddzielonych spacjami), na których chciałbyś używać kreatora."
+
+#: includes/admin-settings-post-types.php:19
+#: includes/admin-settings-post-types.php:39
+msgid "NOTE: Not all custom post types may be supported."
+msgstr "WAŻNE: Nie wszystkie nietyppowe rodzaje postów mogą być obsługiwane."
+
+#: includes/admin-settings-post-types.php:34
+msgid "Example: page, post, product"
+msgstr "Przykład: strona, post, produkt"
+
+#: includes/admin-settings-post-types.php:38
+msgid "Select the post types you would like the builder to work with."
+msgstr "Zaznacz typy postów, na których kreator ma być włączony."
+
+#: includes/admin-settings-post-types.php:78
+msgid "Save Post Types"
+msgstr "Zapisz typy postów"
+
+#: includes/admin-settings-tools.php:161
+msgid "Clicking the button below will uninstall the page builder plugin and delete all of the data associated with it. You can uninstall or deactivate the page builder from the plugins page instead if you do not wish to delete the data."
+msgstr "Kliknięcie poniższego przycisku odinstaluje kreatora stron i usunie wszystkie skojarzone z nim dane. Jeśli nie chcesz usuwać tych danych, możesz usunąć plugin na liście wtyczek w Wordpressie."
+
+#: includes/admin-settings-tools.php:162
+msgid "The builder does not delete the post meta <code>_fl_builder_data</code>, <code>_fl_builder_draft</code> and <code>_fl_builder_enabled</code> in case you want to reinstall it later. If you do, the builder will rebuild all of its data using those meta values."
+msgstr "Kreator nie usunie danych z pól meta: <code>_fl_builder_data</code>, <code>_fl_builder_draft</code> and <code>_fl_builder_enabled</code> na wypadek, gdybyś chciał do zainstalować ponownie na tej stronie."
+
+#: includes/admin-settings-upgrade.php:26
+msgid "Learn More"
+msgstr "Dowiedz się więcej"
+
+#: includes/row-settings.php:291 includes/column-settings.php:189
+msgid "Position"
+msgstr "Pozycja"
+
+#: modules/icon/icon.php:218 modules/audio/audio.php:121
+#: modules/audio/audio.php:133 modules/audio/audio.php:158
+#: modules/audio/audio.php:172 modules/audio/audio.php:184
+#: modules/audio/audio.php:193 modules/video/video.php:344
+#: modules/video/video.php:359 modules/video/video.php:371
+#: modules/video/video.php:383 modules/video/video.php:472
+#: modules/photo/photo.php:551 includes/ui-loop-settings.php:130
+#: includes/global-settings.php:18 includes/global-settings.php:183
+#: includes/global-settings.php:197 includes/global-settings.php:227
+#: includes/global-settings.php:237 includes/row-settings.php:464
+#: includes/row-settings.php:477 includes/row-settings.php:586
+#: includes/column-settings.php:53
+msgid "No"
+msgstr "Nie"
+
+#: modules/icon/icon.php:219 modules/audio/audio.php:122
+#: modules/audio/audio.php:134 modules/audio/audio.php:159
+#: modules/audio/audio.php:173 modules/audio/audio.php:185
+#: modules/audio/audio.php:194 modules/video/video.php:343
+#: modules/video/video.php:360 modules/video/video.php:372
+#: modules/video/video.php:384 modules/video/video.php:471
+#: modules/photo/photo.php:552 includes/ui-loop-settings.php:129
+#: includes/global-settings.php:19 includes/global-settings.php:184
+#: includes/global-settings.php:198 includes/global-settings.php:228
+#: includes/global-settings.php:238 includes/row-settings.php:465
+#: includes/row-settings.php:478 includes/row-settings.php:587
+#: includes/column-settings.php:54
+msgid "Yes"
+msgstr "Tak"
+
+#: includes/ui-field-photo.php:77
+msgid "Edit"
+msgstr "Edytuj"
+
+#: includes/ui-js-config.php:127
+msgid "Do you really want to delete this template?"
+msgstr "Czy na pewno chcesz usunąć ten szablon?"
+
+#: includes/ui-js-templates.php:60 includes/ui-js-templates.php:154
+#: includes/column-settings.php:4
+msgid "Column Settings"
+msgstr "Ustawienia kolumny"
+
+#: modules/rich-text/rich-text.php:48 modules/heading/heading.php:191
+#: modules/icon/icon.php:111 modules/audio/audio.php:146
+#: modules/button/button.php:308 modules/photo/photo.php:640
+#: includes/ui-field-border.php:120 includes/row-settings.php:10
+#: includes/column-settings.php:7 includes/ui-field-typography.php:260
+msgid "Style"
+msgstr "Styl"
+
+#: modules/icon/icon.php:93 modules/icon/icon.php:225
+#: modules/button/button.php:184 modules/button/button.php:380
+#: includes/column-settings.php:81
+msgid "Text"
+msgstr "Tekst"
+
+#: classes/class-fl-builder-art.php:510 modules/rich-text/rich-text.php:56
+#: modules/heading/heading.php:201 modules/icon/icon.php:147
+#: includes/ui-field-border.php:126 includes/row-settings.php:631
+#: includes/row-settings.php:672 includes/column-settings.php:86
+#: includes/column-settings.php:251 includes/column-settings.php:292
+msgid "Color"
+msgstr "Kolor"
+
+#: includes/row-settings.php:142 includes/column-settings.php:96
+msgid "Link Color"
+msgstr "Kolor linka"
+
+#: includes/row-settings.php:152 includes/column-settings.php:106
+msgid "Link Hover Color"
+msgstr "Kolor linka po njechaniu myszką"
+
+#: includes/row-settings.php:162 includes/column-settings.php:116
+msgid "Heading Color"
+msgstr "Kolor nagłówka"
+
+#: modules/button/button.php:453 includes/row-settings.php:172
+#: includes/column-settings.php:126
+msgid "Background"
+msgstr "Tło"
+
+#: includes/row-settings.php:176 includes/column-settings.php:130
+msgid "Type"
+msgstr "Typ"
+
+#: includes/row-settings.php:179 includes/column-settings.php:133
+msgctxt "Background type."
+msgid "None"
+msgstr "Brak"
+
+#: includes/row-settings.php:180 includes/column-settings.php:134
+msgctxt "Background type."
+msgid "Color"
+msgstr "Kolor"
+
+#: includes/row-settings.php:182 includes/column-settings.php:136
+msgctxt "Background type."
+msgid "Photo"
+msgstr "Zdjęcie"
+
+#: modules/icon/icon.php:199 modules/button/button.php:458
+#: includes/row-settings.php:668 includes/column-settings.php:287
+msgid "Background Color"
+msgstr "Kolor tła"
+
+#: includes/row-settings.php:227 includes/column-settings.php:156
+msgid "Background Photo"
+msgstr "Zdjęcie tła"
+
+#: modules/photo/photo.php:24 modules/photo/photo.php:531
+#: includes/row-settings.php:263 includes/row-settings.php:601
+#: includes/column-settings.php:161
+msgid "Photo"
+msgstr "Zdjęcie"
+
+#: includes/row-settings.php:274 includes/column-settings.php:172
+msgid "Repeat"
+msgstr "Powtarzanie tła (Repeat)"
+
+#: includes/row-settings.php:278 includes/column-settings.php:176
+msgctxt "Background repeat."
+msgid "None"
+msgstr "Brak"
+
+#: includes/row-settings.php:279 includes/column-settings.php:177
+msgctxt "Background repeat."
+msgid "Tile"
+msgstr "Kafelki"
+
+#: includes/row-settings.php:280 includes/column-settings.php:178
+msgctxt "Background repeat."
+msgid "Horizontal"
+msgstr "Powtaryanie poziome (horizontal)"
+
+#: includes/row-settings.php:281 includes/column-settings.php:179
+msgctxt "Background repeat."
+msgid "Vertical"
+msgstr "Powtarzanie pionowe (vertical)"
+
+#: includes/ui-field-gradient.php:40 includes/row-settings.php:295
+#: includes/column-settings.php:193
+msgid "Left Top"
+msgstr "Lewa Góra"
+
+#: includes/ui-field-gradient.php:41 includes/row-settings.php:296
+#: includes/column-settings.php:194
+msgid "Left Center"
+msgstr "Lewa Środek"
+
+#: includes/ui-field-gradient.php:42 includes/row-settings.php:297
+#: includes/column-settings.php:195
+msgid "Left Bottom"
+msgstr "Lewa Dół"
+
+#: includes/ui-field-gradient.php:43 includes/row-settings.php:298
+#: includes/column-settings.php:196
+msgid "Right Top"
+msgstr "Prawa Góra"
+
+#: includes/ui-field-gradient.php:44 includes/row-settings.php:299
+#: includes/column-settings.php:197
+msgid "Right Center"
+msgstr "Prawa Środek"
+
+#: includes/ui-field-gradient.php:45 includes/row-settings.php:300
+#: includes/column-settings.php:198
+msgid "Right Bottom"
+msgstr "Prawa Dół"
+
+#: includes/ui-field-gradient.php:46 includes/row-settings.php:301
+#: includes/column-settings.php:199
+msgid "Center Top"
+msgstr "Środek Góra"
+
+#: classes/class-fl-builder-art.php:459 includes/row-settings.php:117
+#: includes/row-settings.php:302 includes/column-settings.php:71
+#: includes/column-settings.php:200
+msgid "Center"
+msgstr "Środek"
+
+#: includes/ui-field-gradient.php:48 includes/row-settings.php:303
+#: includes/column-settings.php:201
+msgid "Center Bottom"
+msgstr "Środek Dół"
+
+#: includes/row-settings.php:356 includes/column-settings.php:211
+msgid "Attachment"
+msgstr "Zachowanie"
+
+#: includes/row-settings.php:360 includes/column-settings.php:215
+msgid "Scroll"
+msgstr "Scroll (Przewijanie)"
+
+#: includes/global-settings.php:93 includes/global-settings.php:107
+#: includes/row-settings.php:20 includes/row-settings.php:38
+#: includes/row-settings.php:361 includes/column-settings.php:216
+msgid "Fixed"
+msgstr "Określony"
+
+#: includes/row-settings.php:371 includes/column-settings.php:226
+msgid "Scale"
+msgstr "Skala"
+
+#: includes/row-settings.php:375 includes/column-settings.php:230
+msgctxt "Background scale."
+msgid "None"
+msgstr "Brak"
+
+#: includes/row-settings.php:376 includes/column-settings.php:231
+msgid "Fit"
+msgstr "Dopasuj"
+
+#: includes/row-settings.php:377 includes/column-settings.php:232
+msgid "Fill"
+msgstr "Wypełnij"
+
+#: includes/row-settings.php:623 includes/column-settings.php:243
+msgid "Background Overlay"
+msgstr "Tło"
+
+#: includes/row-settings.php:649 includes/column-settings.php:268
+msgid "Overlay Color"
+msgstr "Kolor krycia"
+
+#: modules/button/button.php:501 modules/button/button.php:505
+#: modules/photo/photo.php:695 includes/row-settings.php:711
+#: includes/row-settings.php:715 includes/column-settings.php:316
+#: includes/column-settings.php:320
+msgid "Border"
+msgstr "Obramowanie"
+
+#: classes/class-fl-builder-model.php:3067
+#: classes/class-fl-builder-module.php:366 includes/module-settings.php:6
+#: includes/row-settings.php:727 includes/column-settings.php:332
+msgid "Advanced"
+msgstr "Zaawansowane"
+
+#: includes/global-settings.php:41 includes/global-settings.php:118
+#: includes/global-settings.php:158 includes/module-settings.php:13
+#: includes/row-settings.php:734 includes/column-settings.php:339
+msgid "Margins"
+msgstr "Marginesy"
+
+#: classes/class-fl-builder-art.php:341 includes/row-settings.php:116
+#: includes/column-settings.php:70 includes/ui-field-dimension.php:24
+msgid "Top"
+msgstr "Górny"
+
+#: classes/class-fl-builder-art.php:342 includes/row-settings.php:118
+#: includes/column-settings.php:72 includes/ui-field-dimension.php:26
+msgid "Bottom"
+msgstr "Dolny"
+
+#: includes/ui-field-border.php:94 includes/ui-field-border.php:96
+#: includes/ui-field-dimension.php:27
+msgid "Left"
+msgstr "Lewy"
+
+#: includes/ui-field-border.php:95 includes/ui-field-border.php:97
+#: includes/ui-field-dimension.php:25
+msgid "Right"
+msgstr "Prawy"
+
+#: modules/button/button.php:367 includes/global-settings.php:58
+#: includes/global-settings.php:135 includes/row-settings.php:762
+#: includes/column-settings.php:365
+msgid "Padding"
+msgstr "Odstęp wewnętrzny (padding)"
+
+#: includes/global-settings.php:176
+msgid "Responsive Layout"
+msgstr "Układ responsywny"
+
+#: includes/module-settings.php:59 includes/row-settings.php:811
+#: includes/column-settings.php:425
+msgid "Display"
+msgstr "Wyświetlaj"
+
+#: includes/module-settings.php:46 includes/module-settings.php:61
+#: includes/row-settings.php:813 includes/column-settings.php:427
+msgid "Always"
+msgstr "Zawsze"
+
+#: includes/module-settings.php:47 includes/row-settings.php:799
+#: includes/column-settings.php:400
+msgid "Large Devices Only"
+msgstr "Tylko na dużych urządzeniach"
+
+#: includes/module-settings.php:48 includes/row-settings.php:800
+#: includes/column-settings.php:401
+msgid "Large &amp; Medium Devices Only"
+msgstr "Na urządzeniach dużych i średnich"
+
+#: includes/module-settings.php:49 includes/row-settings.php:801
+#: includes/column-settings.php:402
+msgid "Medium Devices Only"
+msgstr "Tylko na średnich urządzeniach"
+
+#: includes/module-settings.php:50 includes/row-settings.php:802
+#: includes/column-settings.php:403
+msgid "Medium &amp; Small Devices Only"
+msgstr "Na urządzeniach średnich i małych"
+
+#: includes/module-settings.php:51 includes/row-settings.php:803
+#: includes/column-settings.php:404
+msgid "Small Devices Only"
+msgstr "Tylko na małych urządzeniach"
+
+#: classes/class-fl-builder-fonts.php:75 classes/class-fl-builder-fonts.php:110
+#: classes/class-fl-builder-fonts.php:151 includes/ui-field-border.php:34
+#: includes/row-settings.php:72 includes/column-settings.php:416
+#: includes/ui-field-typography.php:140 includes/ui-field-typography.php:154
+#: includes/ui-field-typography.php:167
+msgid "Default"
+msgstr "Domyślna"
+
+#: modules/button/button.php:320
+msgid "Custom"
+msgstr "Wpisz"
+
+#: includes/ui-loop-settings.php:84 includes/module-settings.php:126
+#: includes/row-settings.php:878 includes/column-settings.php:492
+msgid "ID"
+msgstr "ID"
+
+#: includes/column-settings.php:493
+msgid "A unique ID that will be applied to this column's HTML. Must start with a letter and only contain dashes, underscores, letters or numbers. No spaces."
+msgstr "Unikalny identyfikator (ID), który zostanie dodany do kodu HTML tej kolumny. Musi zaczynać się od litery, może zawierać myślniki, podkreślenia, litery (bez polskich znaków) i liczby"
+
+#: includes/column-settings.php:500
+msgid "CSS Class"
+msgstr "Klasa CSS"
+
+#: includes/column-settings.php:501
+msgid "A class that will be applied to this column's HTML. Must start with a letter and only contain dashes, underscores, letters or numbers. Separate multiple classes with spaces."
+msgstr "Klasa która zostanie dodana do kodu HTML tej kolumny. Musi zaczynać się od litery, może zawierać myślniki, podkreślenia, litery (bez polskich znaków) i liczby. Jeśli chcesz wpisać kilka klas, oddziel je spacjami"
+
+#. translators: %s: form field label
+#: includes/ui-js-config.php:136
+msgctxt "%s stands for form field label."
+msgid "Edit %s"
+msgstr "Edytuj %s"
+
+#: includes/ui-field-icon.php:21 includes/icon-selector.php:2
+msgid "Select Icon"
+msgstr "Wybierz ikonę"
+
+#: includes/ui-field-icon.php:24 includes/ui-field-photo.php:81
+msgid "Replace"
+msgstr "Zamień"
+
+#: includes/ui-field-icon.php:26 includes/ui-field-photo.php:79
+#: includes/ui-js-config.php:178 includes/ui-js-templates.php:27
+#: includes/ui-js-templates.php:80 includes/ui-js-templates.php:176
+msgid "Remove"
+msgstr "Usuń"
+
+#: includes/ui-field-link.php:4
+msgid "Select"
+msgstr "Zaznacz"
+
+#: includes/ui-field-link.php:46
+msgid "Enter a post title to search."
+msgstr "Wpisz tytuł posta, który chcesz znaleźć"
+
+#: includes/ui-field-suggest.php:10 includes/ui-field-link.php:47
+msgid "Start typing..."
+msgstr "Zacznij pisać..."
+
+#: includes/ui-js-config.php:107 includes/ui-bar.php:13 includes/ui-bar.php:47
+#: includes/icon-selector.php:28 includes/ui-field-link.php:48
+#: includes/ui-js-templates.php:257
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: includes/ui-field-multiple-photos.php:28
+msgid "Create Gallery"
+msgstr "Stwórz galerię"
+
+#: includes/ui-field-multiple-photos.php:29
+msgid "Edit Gallery"
+msgstr "Edytuj galerię"
+
+#: includes/ui-field-multiple-photos.php:30
+msgid "Add Photos"
+msgstr "Dodaj zdjęcia"
+
+#: includes/ui-field-photo.php:60 includes/ui-js-config.php:195
+msgid "Select Photo"
+msgstr "Zaznacz zdjęcie"
+
+#: includes/ui-js-config.php:197 includes/ui-field-video.php:23
+msgid "Select Video"
+msgstr "Zaznacz wideo"
+
+#: includes/ui-field-video.php:37
+msgid "Replace Video"
+msgstr "Podmień wideo"
+
+#: classes/class-fl-builder-model.php:6314 modules/sidebar/sidebar.php:28
+#: modules/rich-text/rich-text.php:27 modules/heading/heading.php:145
+#: modules/html/html.php:27 modules/icon/icon.php:65
+#: modules/widget/widget.php:82 modules/audio/audio.php:73
+#: modules/button/button.php:177 modules/video/video.php:292
+#: modules/photo/photo.php:504 includes/ui-field-border.php:115
+#: includes/global-settings.php:7
+msgid "General"
+msgstr "Ogólne"
+
+#: includes/global-settings.php:11
+msgid "Default Page Heading"
+msgstr "Domyślny nagłówek strony"
+
+#: includes/global-settings.php:15
+msgctxt "General settings form field label. Intended meaning: \"Show page heading?\""
+msgid "Show"
+msgstr "Pokaż"
+
+#: includes/global-settings.php:26
+msgid "Choosing no will hide the default theme heading for the \"Page\" post type. You will also be required to enter some basic CSS for this to work if you choose no."
+msgstr "Jeśli wybierzesz Nie, tytuły stron nie będą wyświetlane. Będziesz też poproszony o dodanie nieco CSSa, aby ta funkcjonalność zadziałała."
+
+#: includes/global-settings.php:30
+msgid "CSS Selector"
+msgstr "Selektor CSS"
+
+#: includes/global-settings.php:32
+msgid "Enter a CSS selector for the default page heading to hide it."
+msgstr "Wpisz selektor CSS aby ukryć domyślny nagłówek w stronach."
+
+#: classes/class-fl-builder-ui-content-panel.php:43
+#: includes/global-settings.php:37
+msgid "Rows"
+msgstr "Wiersze"
+
+#: includes/global-settings.php:76
+msgid "Max Width"
+msgstr "Maksymalna szerokość"
+
+#: includes/global-settings.php:81
+msgid "All rows will default to this width. You can override this and make a row full width in the settings for each row."
+msgstr "Wszystkie wiersze będą miały domyślnie taką szerokość. Jednak dla każdego wiersza możesz ją ustawić osobno."
+
+#: includes/global-settings.php:90
+msgid "Default Row Width"
+msgstr "Domyślna szerokość wiersza"
+
+#: modules/button/button.php:319 includes/global-settings.php:94
+#: includes/global-settings.php:108 includes/row-settings.php:21
+#: includes/row-settings.php:39
+msgid "Full Width"
+msgstr "Pełna szerokość"
+
+#: includes/global-settings.php:104
+msgid "Default Row Content Width"
+msgstr "Domyśla szerokość wiersza z treścią"
+
+#: includes/global-settings.php:180
+msgctxt "General settings form field label. Intended meaning: \"Responsive layout enabled?\""
+msgid "Enabled"
+msgstr "Włączony"
+
+#: includes/global-settings.php:194
+msgctxt "General settings form field label. Intended meaning: \"Enable auto spacing for responsive layouts?\""
+msgid "Enable Auto Spacing"
+msgstr "Włącz wstawianie odstępów"
+
+#: includes/global-settings.php:200
+msgid "When auto spacing is enabled, the builder will automatically adjust the margins and padding in your layout once the small device breakpoint is reached. Most users will want to leave this enabled."
+msgstr "Jeśli włączysz wstawianie odstępów, kreator automatycznie dostosuje marginesy i padding (wewnętrzne marginesy) gdy strona będzie oglądana na małych urządzeniach. Dla większości użytkowników polecamy pozostawienie tej opcji włączonej."
+
+#: includes/global-settings.php:204
+msgid "Medium Device Breakpoint"
+msgstr "Maksymalna szerokość średnich urządzeń"
+
+#: includes/global-settings.php:210
+msgid "The browser width at which the layout will adjust for medium devices such as tablets."
+msgstr "Określ szerokość przeglądarki, od której układ strony dopasuje się do średnich urządzeń."
+
+#: includes/global-settings.php:214
+msgid "Small Device Breakpoint"
+msgstr "Maksymalna szerokość małych urządzeń"
+
+#: includes/global-settings.php:220
+msgid "The browser width at which the layout will adjust for small devices such as phones."
+msgstr "Określ szerokość przeglądarki, od której układ strony dopasuje się do małych urządzeń."
+
+#: includes/icon-selector.php:5
+msgctxt "Select option for showing all icon libraries."
+msgid "All Libraries"
+msgstr "Wszystkie biblioteki"
+
+#: includes/ui-js-config.php:95
+msgid "What would you like to do?"
+msgstr "Co chciałbyś zrobić?"
+
+#: includes/ui-js-config.php:108
+msgid "Change Template"
+msgstr "Zmień szablon"
+
+#: includes/ui-js-config.php:109
+msgid "Warning! Changing the template will replace your existing layout. Do you really want to do this?"
+msgstr "Uwaga! Zmiana szablonu spowoduje zastąpienie nim tego, który teraz używasz. Czy na pewno chcesz to zrobić?"
+
+#: includes/ui-js-config.php:117
+msgid "Column"
+msgstr "Kolumna"
+
+#: includes/ui-js-config.php:118
+msgid "Please select either a background layout or content layout before submitting."
+msgstr "Zaznacz układ treści lub układ tła."
+
+#: includes/ui-js-config.php:121
+msgid "Remove Account"
+msgstr "Usuń konto"
+
+#: includes/ui-js-config.php:122
+msgid "Are you sure you want to remove this account? Other modules that are connected to it will be affected."
+msgstr "Czy na pewno chcesz usunąć to konto? Wpłynie to również na inne moduły, które są do niego podłączone."
+
+#: includes/ui-js-config.php:124
+msgid "Do you really want to delete this item?"
+msgstr "Czy na pewno chcesz to usunąć?"
+
+#: includes/ui-js-config.php:130
+msgid "Do you really want to discard these changes? All of your changes that are not published will be lost."
+msgstr "Czy na pewno chcesz odrzucić zmiany i nie zapisywać tej strony? Wszystkie wprowadzone zmiany  nie zostaną opublikowane i zostaną utracone."
+
+#: classes/class-fl-builder.php:1634 includes/ui-js-config.php:131
+#: includes/ui-js-templates.php:321
+msgid "Done"
+msgstr "Gotowe"
+
+#: includes/ui-bar.php:7
+msgid "Save Draft"
+msgstr "Zapisz szkic"
+
+#: includes/ui-js-config.php:139
+msgid "Drop a row layout or module to get started!"
+msgstr "Umieść tu wiersz, aby zacząć!"
+
+#: includes/ui-js-config.php:143
+msgid "Beaver Builder caught the following JavaScript error. If Beaver Builder is not functioning as expected the cause is most likely this error. Please help us by disabling all plugins and testing Beaver Builder while reactivating each to determine if the issue is related to a third party plugin."
+msgstr "Beaver Builder wykrył następujący błąd JavaScriptu. Jeśli Beaver Builder nie działa poprawnie, prawdopodobnie ten błąd jest tego przyczyną. Pomóż nam ulepszyć Beaver Buildera - wyłacz wszystkie pluginy i włączaj je po kolei sprawdzając, czy któryś z nich powoduje pojawienie się błędu."
+
+#: classes/class-fl-builder-ui-settings-forms.php:541
+#: includes/ui-field-photo-sizes.php:8 includes/ui-js-config.php:145
+msgid "Full Size"
+msgstr "Pełny rozmiar"
+
+#: includes/ui-js-config.php:146
+msgid "Get Help"
+msgstr "Pomoc"
+
+#: includes/ui-js-templates.php:317
+msgid "Getting Started Video"
+msgstr "Zobacz wideo - początki z Beaver Builderem"
+
+#: includes/ui-js-config.php:148
+msgid "\"{message}\" on line {line} of {file}."
+msgstr "\"{message}\" w linii {line} w pliku {file}."
+
+#: includes/ui-js-config.php:149
+msgid "Insert"
+msgstr "Wstaw"
+
+#: classes/class-fl-builder-ui-settings-forms.php:540
+#: includes/ui-js-config.php:150
+msgid "Large"
+msgstr "Duży"
+
+#: classes/class-fl-builder.php:1342 includes/ui-js-config.php:151
+msgid "Manage Templates"
+msgstr "Zarządzaj szablonami"
+
+#: classes/class-fl-builder-ui-settings-forms.php:539
+#: classes/class-fl-builder-fonts.php:166 includes/ui-js-config.php:152
+msgid "Medium"
+msgstr "Średni"
+
+#: includes/ui-js-config.php:154 includes/ui-js-config.php:266
+msgid "Module"
+msgstr "Moduł"
+
+#: includes/ui-js-config.php:156 includes/ui-js-templates.php:9
+#: includes/ui-js-templates.php:49 includes/ui-js-templates.php:144
+msgid "Move"
+msgstr "Przesuń"
+
+#: includes/ui-js-config.php:157
+msgid "New Column"
+msgstr "Nowa kolumna"
+
+#: includes/ui-js-config.php:158
+msgid "New Row"
+msgstr "Nowy wiersz"
+
+#: includes/ui-js-config.php:161
+msgid "No results found."
+msgstr "Nie znaleziono."
+
+#: includes/ui-js-templates.php:309
+msgid "No Thanks"
+msgstr "Nie, dzięki"
+
+#: includes/ui-js-config.php:164 includes/ui-js-templates.php:265
+#: includes/ui-js-templates.php:292
+msgid "OK"
+msgstr "OK"
+
+#: modules/photo/photo.php:610 includes/ui-js-config.php:165
+msgid "Photo Page"
+msgstr "Strona zdjęcia"
+
+#: includes/ui-js-config.php:166
+msgid "Photo Selected"
+msgstr "Zaznaczone zdjęcie"
+
+#: includes/ui-js-config.php:169
+msgid "Photos Selected"
+msgstr "Zaznaczone zdjęcia"
+
+#: includes/ui-js-config.php:174
+msgid "Please Wait..."
+msgstr "Proszę czekać..."
+
+#: includes/ui-js-config.php:177
+msgid "Publish Changes"
+msgstr "Opublikuj zmiany"
+
+#: includes/ui-js-config.php:184 includes/ui-js-config.php:267
+msgid "Row"
+msgstr "Wiersz"
+
+#: includes/ui-js-config.php:185 includes/row-settings.php:6
+#: includes/ui-js-templates.php:11
+msgid "Row Settings"
+msgstr "Ustawienia wiersza"
+
+#: includes/ui-js-config.php:187
+msgid "Save Core Template"
+msgstr "Zapisz szablon kreatora"
+
+#: classes/class-fl-builder.php:1226 includes/ui-js-config.php:193
+msgid "Save Template"
+msgstr "Zapisz szablon"
+
+#: includes/ui-js-config.php:196
+msgid "Select Photos"
+msgstr "Zaznacz zdjęcia"
+
+#: includes/ui-js-config.php:200
+msgid "Please select an account before saving."
+msgstr "Zaznacz konto przed zapisaniem."
+
+#: includes/ui-js-config.php:201
+msgid "Please connect an account before saving."
+msgstr "Połącz konto przed zapisaniem."
+
+#: includes/ui-js-config.php:202
+msgid "Please select a list before saving."
+msgstr "Wybierz listę przed zapisaniem."
+
+#: includes/ui-js-config.php:204
+msgid "Take a Tour"
+msgstr "Uruchom przewodnik po kreatorze"
+
+#: includes/ui-js-config.php:205
+msgid "Append New Layout"
+msgstr "Dołącz nowy układ"
+
+#: includes/ui-js-config.php:206
+msgid "Replace Existing Layout"
+msgstr "Nadpisz nowy układ"
+
+#: includes/ui-js-config.php:207
+msgid "Template Saved!"
+msgstr "Szablon zapisany!"
+
+#: classes/class-fl-builder-ui-settings-forms.php:538
+#: includes/ui-js-config.php:208
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: includes/ui-js-config.php:209
+msgid "Next"
+msgstr "Następny"
+
+#: includes/ui-js-config.php:210
+msgid "Get Started"
+msgstr "Zacznij budowanie strony"
+
+#: includes/ui-js-config.php:211
+msgid "Choose a Template"
+msgstr "Wybierz szablon"
+
+#: includes/ui-js-config.php:212
+msgid "Get started by choosing a layout template to customize, or build a page from scratch by selecting the blank layout template."
+msgstr "Zacznij tworzenie strony przez wybranie szablonu lub zbuduj ją od zera, wybierając pusty szablon."
+
+#: includes/ui-js-config.php:213
+msgid "Add Rows"
+msgstr "Dodaj wiersze"
+
+#: includes/ui-js-config.php:214
+msgid "Add multi-column rows, adjust spacing, add backgrounds and more by dragging and dropping row layouts onto the page."
+msgstr "Dodaj wielokolumnowe wiersze, dostosuj odstępy, dodaj tła i wiele więcej przeciągając i upuszczając wiersze na stronę."
+
+#: includes/ui-js-config.php:215
+msgid "Add Content"
+msgstr "Dodaj treść"
+
+#: includes/ui-js-config.php:216
+msgid "Add new content by dragging and dropping modules or widgets into your row layouts or to create a new row layout."
+msgstr "Dodaj nową treść na stronę przeciągając i upuszczając moduły lub widgety na już istniejące wiersze lub tworząc nowe wiersze."
+
+#: includes/ui-js-config.php:217
+msgid "Edit Content"
+msgstr "Edytuj treść"
+
+#: includes/ui-js-config.php:218
+msgid "Move your mouse over rows, columns or modules to edit and interact with them."
+msgstr "Przesuń kursor na wiersze, kolumny i moduły, aby je edytować i zmieniać."
+
+#: includes/ui-js-config.php:219
+msgid "Use the action buttons to perform actions such as moving, editing, duplicating or deleting rows, columns and modules."
+msgstr "Użyj przycisków akcji aby przesuwać, edytować, duplikować i usuwać wiersze, kolumny i moduły."
+
+#: includes/ui-js-config.php:220
+msgid "Add More Content"
+msgstr "Dodaj więcej treści"
+
+#: includes/ui-js-config.php:221
+msgid "Use the Add Content button to open the content panel and add new row layouts, modules or widgets."
+msgstr "Kliknij w przycisk Dodaj treść aby otworzyć boczny panel i dodawać nowe wiersze, moduły i widgety."
+
+#: includes/ui-js-config.php:222
+msgid "Change Templates"
+msgstr "Zmień szablony"
+
+#: includes/ui-js-config.php:223
+msgid "Use the Templates button to pick a new template or append one to your layout. Appending will insert a new template at the end of your existing page content."
+msgstr "Kliknij w przycisk Szablony aby wybrać nowy szablon lub dodać go do twojej strony. Dodanie wstawi nowy szablon na dole strony, pod treścią, która już się na stronie znajduje."
+
+#: includes/ui-js-config.php:224
+msgid "Helpful Tools"
+msgstr "Pomocne narzędzia"
+
+#: includes/ui-js-config.php:226
+msgid "Publish Your Changes"
+msgstr "Opublikuj zmiany"
+
+#: includes/ui-js-config.php:227
+msgid "Once you're finished, click the Done button to publish your changes, save a draft or revert back to the last published state."
+msgstr "Gdy skończysz pracę nad tą stroną, kliknij przycisk Gotowe aby opublikować zmiany, zapisać wersję roboczą lub wrócić do ostatnio opublikowanej wersji."
+
+#: includes/ui-js-config.php:228
+msgid "Let's Get Building!"
+msgstr "Zaczynajmy budowanie!"
+
+#: includes/ui-js-config.php:229
+msgid "Now that you know the basics, you're ready to start building! If at any time you need help, click the help icon in the upper right corner to access the help menu. Happy building!"
+msgstr "Teraz, gdy znasz już podstawy, możesz zacząć budować swoją stronę. Jeśli będziesz potrzebować porad, kliknij na ikonę pomocy w prawym górnym rogu ekranu. Miłego budowania!"
+
+#: includes/ui-js-config.php:230
+msgid "The settings you are currently editing will not be saved if you navigate away from this page."
+msgstr "Ustawienia, które właśnie edytujesz, nie będą zapisane jeśli wyjdziesz z tej strony."
+
+#: includes/ui-js-config.php:231
+msgid "View the Knowledge Base"
+msgstr "Przejrzyj Bazę Wiedzy"
+
+#: includes/ui-js-config.php:235
+msgid "Watch the Video"
+msgstr "Obejrzyj wideo"
+
+#: includes/ui-js-config.php:236 includes/ui-js-templates.php:308
+msgid "Welcome! It looks like this might be your first time using the builder. Would you like to take a tour?"
+msgstr "Witamy! Wygląda na to, że pierwszy raz używasz tego kreatora. Czy chcesz zobaczyć szybki samouczek?"
+
+#: includes/ui-js-config.php:240 includes/ui-js-templates.php:310
+msgid "Yes Please!"
+msgstr "Tak, bardzo chętnie"
+
+#: includes/ui-loop-settings.php:62
+msgid "Post Type"
+msgstr "Typ postu"
+
+#: includes/ui-loop-settings.php:78
+msgid "Order By"
+msgstr "Kolejność według"
+
+#: includes/ui-loop-settings.php:82
+msgid "Date"
+msgstr "Data"
+
+#: includes/ui-loop-settings.php:83
+msgid "Date Last Modified"
+msgstr "Ostatnia modyfikacja"
+
+#: includes/ui-loop-settings.php:89
+msgid "Title"
+msgstr "Tytuł"
+
+#: includes/ui-loop-settings.php:80
+msgid "Author"
+msgstr "Autor"
+
+#: includes/ui-loop-settings.php:81
+msgid "Comment Count"
+msgstr "Liczba komentarzy"
+
+#: includes/ui-loop-settings.php:85
+msgid "Menu Order"
+msgstr "Kolejność w menu"
+
+#: includes/ui-loop-settings.php:88
+msgid "Random"
+msgstr "Losowo"
+
+#: includes/ui-loop-settings.php:68
+msgid "Order"
+msgstr "Kolejność"
+
+#: includes/ui-loop-settings.php:70
+msgid "Descending"
+msgstr "Malejąco"
+
+#: includes/ui-loop-settings.php:71
+msgid "Ascending"
+msgstr "Rosnąco"
+
+#: includes/ui-loop-settings.php:111
+msgctxt "How many posts to skip."
+msgid "Offset"
+msgstr "Ile postów pominąć?"
+
+#: includes/ui-loop-settings.php:120
+msgid "Skip this many posts that match the specified criteria."
+msgstr "Wpisz liczbę postów, które chcesz pominąć."
+
+#: includes/ui-loop-settings.php:139
+msgid "Filter"
+msgstr "Filtr"
+
+#: includes/ui-loop-settings.php:182
+msgid "Authors"
+msgstr "Autorzy"
+
+#: includes/module-settings.php:87 includes/module-settings.php:91
+#: includes/row-settings.php:839 includes/row-settings.php:843
+#: includes/column-settings.php:453 includes/column-settings.php:457
+msgid "Animation"
+msgstr "Animacja"
+
+#: includes/ui-field-animation.php:15
+msgctxt "Animation style."
+msgid "None"
+msgstr "Brak"
+
+#: includes/ui-field-animation.php:19
+msgctxt "Animation style."
+msgid "Fade In"
+msgstr "Pojawianie się (Fade In)"
+
+#: includes/ui-field-animation.php:29
+msgctxt "Animation style."
+msgid "Slide Left"
+msgstr "Wjazd z lewej"
+
+#: includes/ui-field-animation.php:30
+msgctxt "Animation style."
+msgid "Slide Right"
+msgstr "Wjazd z prawej"
+
+#: includes/ui-field-animation.php:31
+msgctxt "Animation style."
+msgid "Slide Up"
+msgstr "Wjazd z góry"
+
+#: includes/ui-field-animation.php:32
+msgctxt "Animation style."
+msgid "Slide Down"
+msgstr "Wjazd z dołu"
+
+#: includes/ui-field-animation.php:132
+msgid "Delay"
+msgstr "Wstrzymaj animację na"
+
+#: includes/row-settings.php:543 includes/row-settings.php:576
+msgctxt "Value unit for form field of time in seconds. Such as: \"5 seconds\""
+msgid "seconds"
+msgstr "sekund"
+
+#: includes/module-settings.php:127
+msgid "A unique ID that will be applied to this module's HTML. Must start with a letter and only contain dashes, underscores, letters or numbers. No spaces."
+msgstr "Unikalny identyfikator (ID), który będzie reprezentował ten moduł. Musi się zaczynać od litery i może składać się jedynie z liczb, liter, podkreślnika i myślnika. Nie używaj w nim spacji."
+
+#: includes/module-settings.php:134 includes/row-settings.php:886
+msgid "Class"
+msgstr "Klasa"
+
+#: includes/module-settings.php:135
+msgid "A class that will be applied to this module's HTML. Must start with a letter and only contain dashes, underscores, letters or numbers. Separate multiple classes with spaces."
+msgstr "Unikalna klasa, która będzie dodana do tego modułu. Musi się zaczynać od litery i może składać się jedynie z liczb, liter, podkreślnika i myślnika. Jeśli chcesz wpisać więcej niż jedną klasę, oddziel je spacjami."
+
+#: classes/class-fl-builder-art.php:439 modules/button/button.php:315
+#: modules/photo/photo.php:660 includes/ui-field-border.php:134
+#: includes/row-settings.php:17 includes/column-settings.php:14
+msgid "Width"
+msgstr "Szerokość"
+
+#: includes/row-settings.php:28
+msgid "Full width rows span the width of the page from edge to edge. Fixed rows are no wider than the Row Max Width set in the Global Settings."
+msgstr "Wiersze posiadające pełną szerokość wypełniają cały dostępny obszar (zwykle po prostu szerokość przeglądarki). Wiersze"
+
+#: includes/row-settings.php:35
+msgid "Content Width"
+msgstr "Szerokość treści"
+
+#: includes/row-settings.php:41
+msgid "Full width content spans the width of the page from edge to edge. Fixed content is no wider than the Row Max Width set in the Global Settings."
+msgstr "Wiersze o pełnej szerokości wypełniają całe dostęone miejsce, czyli zwykle zajmują całą szerokość przeglądarki. Wiersze o określonej szerokości niigdy nie są szersze niż określono w polu Maksymalna szerokość w globalnych ustawieniach (Narzędzia -> Edytuj globalne ustawienia -> Maksymalna szerokość)"
+
+#: includes/row-settings.php:127
+msgid "Colors"
+msgstr "Kolory"
+
+#: modules/icon/icon.php:243 modules/button/button.php:385
+#: includes/row-settings.php:132
+msgid "Text Color"
+msgstr "Kolor tekstu"
+
+#: includes/row-settings.php:183
+msgctxt "Background type."
+msgid "Video"
+msgstr "Wideo"
+
+#: includes/row-settings.php:186
+msgctxt "Background type."
+msgid "Slideshow"
+msgstr "Pokaz slajdów"
+
+#: includes/row-settings.php:190
+msgctxt "Background type."
+msgid "Parallax"
+msgstr "Parallax"
+
+#: includes/row-settings.php:388
+msgid "Background Video"
+msgstr "Wideo w tle"
+
+#: modules/button/button.php:270 modules/video/video.php:18
+msgid "Video"
+msgstr "Wideo"
+
+#: includes/row-settings.php:487
+msgid "Fallback Photo"
+msgstr "Zdjęcie \"awaryjne\""
+
+#: includes/row-settings.php:488
+msgid "A photo that will be displayed if the video fails to load."
+msgstr "Zdjęcie, które ma zostać wczytane, gdy nie uda się wczytać pliku wideo."
+
+#: includes/row-settings.php:497
+msgid "Background Slideshow"
+msgstr "Pokaz slajdów w tle"
+
+#: includes/ui-loop-settings.php:35 includes/row-settings.php:392
+#: includes/row-settings.php:501
+msgid "Source"
+msgstr "Źródło"
+
+#: modules/audio/audio.php:83 modules/video/video.php:302
+#: modules/photo/photo.php:514 includes/row-settings.php:234
+#: includes/row-settings.php:395 includes/row-settings.php:504
+msgid "Media Library"
+msgstr "Biblioteka mediów"
+
+#: includes/row-settings.php:507
+msgid "Pull images from the WordPress media library or a gallery on your SmugMug site by inserting the RSS feed URL from SmugMug. The RSS feed URL can be accessed by using the get a link function in your SmugMug gallery."
+msgstr "Pobierz zdjęcia z wordpressowej Biblioteki Mediów lub swojej strony SmugMug wstawiając URL kanału RSS. Adres URL kanału RSS znajdziesz używając funkcji Get a link w swojej galerii SmugMug."
+
+#: includes/row-settings.php:522
+msgid "Photos"
+msgstr "Zdjęcia"
+
+#: includes/row-settings.php:530
+msgid "Feed URL"
+msgstr "Url kanału"
+
+#: includes/row-settings.php:538 includes/row-settings.php:609
+msgid "Speed"
+msgstr "Szybkość"
+
+#: includes/row-settings.php:550
+msgid "Transition"
+msgstr "Animacja"
+
+#: includes/row-settings.php:553
+msgctxt "Slideshow transition type."
+msgid "None"
+msgstr "Brak"
+
+#: includes/row-settings.php:554
+msgid "Fade"
+msgstr "Przenikanie"
+
+#. translators: %s: builder branded name
+#: classes/class-fl-builder-admin-settings.php:170
+msgctxt "%s stands for custom branded \"Page Builder\" name."
+msgid "%s Settings"
+msgstr "%s - ustawienia"
+
+#: classes/class-fl-builder-admin-settings.php:185
+msgid "Settings updated!"
+msgstr "Ustawienia zostały zaktualizowane!"
+
+#: classes/class-fl-builder-admin-settings.php:207
+msgid "License"
+msgstr "Licencja"
+
+#: classes/class-fl-builder-admin-settings.php:212
+#: classes/class-fl-builder-ui-content-panel.php:222
+msgid "Upgrade"
+msgstr "Aktualizuj"
+
+#: classes/class-fl-builder-admin-settings.php:217
+#: classes/class-fl-builder-ui-content-panel.php:32
+#: includes/global-settings.php:154
+msgid "Modules"
+msgstr "Moduły"
+
+#: classes/class-fl-builder-ui-content-panel.php:53
+msgid "Templates"
+msgstr "Szablony"
+
+#: classes/class-fl-builder-admin-settings.php:222
+#: includes/admin-settings-post-types.php:3
+msgid "Post Types"
+msgstr "Rodzje wpisu"
+
+#: classes/class-fl-builder-admin-settings.php:232
+msgid "Icons"
+msgstr "Ikony"
+
+#: includes/admin-settings-tools.php:3
+msgid "Cache"
+msgstr "Pamięć podręczna"
+
+#: includes/admin-settings-tools.php:158 includes/admin-settings-tools.php:168
+msgid "Uninstall"
+msgstr "Odinstaluj"
+
+#: classes/class-fl-builder-admin-settings.php:471
+msgid "Error! You must have at least one icon set enabled."
+msgstr "Błąd! Musisz mieć przynajmniej jeden zestaw ikon włączony"
+
+#: classes/class-fl-builder-admin-settings.php:549
+msgid "Error! Could not unzip file."
+msgstr "Błąd! Nie udało się rozpakować pliku."
+
+#: classes/class-fl-builder-admin.php:262
+msgctxt "Plugin action link label."
+msgid "Upgrade"
+msgstr "Aktualizuj"
+
+#. translators: %s: module filename
+#: classes/class-fl-builder-model.php:2832
+msgctxt "%s stands for the module filename"
+msgid "A module with the filename %s.php already exists! Please namespace your module filenames to ensure compatibility with Beaver Builder."
+msgstr "Moduł o nazwie %s.php już istnieje! Sprawdź nazwy zainstalowanych pluginów, aby zapewnić kompatybilność z Beaver Buiderem."
+
+#: classes/class-fl-builder-module.php:363
+msgid "Basic Modules"
+msgstr "Moduły Podstawowe"
+
+#: classes/class-fl-builder-module.php:365
+msgid "Advanced Modules"
+msgstr "Moduły Zaawansowane"
+
+#: classes/class-fl-builder-model.php:3085
+#: classes/class-fl-builder-model.php:3220
+#: classes/class-fl-builder-model.php:3647 modules/widget/widget.php:15
+#: modules/widget/widget.php:16 includes/admin-settings-modules.php:78
+#: includes/ui-js-config.php:238
+msgid "WordPress Widgets"
+msgstr "Widgety Wordpressa"
+
+#. translators: %s: post/page title
+#: classes/class-fl-builder-model.php:4274
+msgctxt "%s stands for post/page title."
+msgid "Copy of %s"
+msgstr "Kopia %s"
+
+#: classes/class-fl-builder-model.php:5051
+msgctxt "Default user template category."
+msgid "Uncategorized"
+msgstr "Bez kategorii"
+
+#: classes/class-fl-builder-model.php:6316 includes/ui-js-config.php:276
+msgid "Content Pages"
+msgstr "Szablony podstron"
+
+#: classes/class-fl-builder-photo.php:92 classes/class-fl-builder-photo.php:96
+msgctxt "Image size."
+msgid "Full Size"
+msgstr "Pełny rozmiar"
+
+#: classes/class-fl-builder-photo.php:97
+msgctxt "Image size."
+msgid "Large"
+msgstr "Duży"
+
+#: classes/class-fl-builder-photo.php:98
+msgctxt "Image size."
+msgid "Medium"
+msgstr "Średni"
+
+#: classes/class-fl-builder-photo.php:99
+msgctxt "Image size."
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: classes/class-fl-builder-service-activecampaign.php:67
+msgid "Error: You must provide an API URL."
+msgstr "Błąd: Musisz dostarczyć API URL."
+
+#: classes/class-fl-builder-service-activecampaign.php:75
+msgid "Error: Please check your API URL and API key."
+msgstr "Błąd: Sprawdź poprawność API URL i klucza."
+
+#: classes/class-fl-builder-service-activecampaign.php:100
+msgid "API URL"
+msgstr "API URL"
+
+#: classes/class-fl-builder-service-activecampaign.php:307
+msgid "There was an error subscribing to ActiveCampaign. The account is no longer connected."
+msgstr "Wystąpił błąd podczas łaczenia się z ActiveCampaign. Konto nie jest już połączone."
+
+#: classes/class-fl-builder-service-activecampaign.php:372
+msgid "Error: Invalid API data."
+msgstr "Błąd: Błędne API."
+
+#: classes/class-fl-builder-service-aweber.php:72
+msgid "Error: You must provide an Authorization Code."
+msgstr "Błąd: Podaj Kod Autoryzacji (Authorisation Code)."
+
+#: classes/class-fl-builder-service-aweber.php:74
+msgid "Error: Please enter a valid Authorization Code."
+msgstr "Błąd: Wpisz poprawny Kod Autoryzacji (Authorization Code)."
+
+#: classes/class-fl-builder-service-constant-contact.php:47
+#: classes/class-fl-builder-service-mailchimp.php:72
+#: classes/class-fl-builder-service-sendy.php:70
+#: classes/class-fl-builder-service-campaign-monitor.php:53
+#: classes/class-fl-builder-service-activecampaign.php:69
+#: classes/class-fl-builder-service-campayn.php:100
+#: classes/class-fl-builder-service-hatchbuck.php:47
+#: classes/class-fl-builder-service-getresponse.php:65
+#: classes/class-fl-builder-service-madmimi.php:69
+#: classes/class-fl-builder-service-infusionsoft.php:77
+#: classes/class-fl-builder-service-enormail.php:67
+#: classes/class-fl-builder-service-convertkit.php:65
+#: classes/class-fl-builder-service-mailrelay.php:79
+#: classes/class-fl-builder-service-godaddy-email-marketing.php:69
+#: classes/class-fl-builder-service-ontraport.php:70
+msgid "Error: You must provide an API key."
+msgstr "Błąd: Musisz podać klucz API."
+
+#: classes/class-fl-builder-service-constant-contact.php:82
+#: classes/class-fl-builder-service-mailchimp.php:107
+#: classes/class-fl-builder-service-sendy.php:125
+#: classes/class-fl-builder-service-campaign-monitor.php:86
+#: classes/class-fl-builder-service-mailerlite.php:111
+#: classes/class-fl-builder-service-activecampaign.php:111
+#: classes/class-fl-builder-service-campayn.php:143
+#: classes/class-fl-builder-service-hatchbuck.php:84
+#: classes/class-fl-builder-service-getresponse.php:96
+#: classes/class-fl-builder-service-madmimi.php:113
+#: classes/class-fl-builder-service-infusionsoft.php:121
+#: classes/class-fl-builder-service-enormail.php:103
+#: classes/class-fl-builder-service-convertkit.php:96
+#: classes/class-fl-builder-service-mailrelay.php:127
+#: classes/class-fl-builder-service-godaddy-email-marketing.php:111
+#: classes/class-fl-builder-service-mailjet.php:135
+#: classes/class-fl-builder-service-ontraport.php:123
+msgid "API Key"
+msgstr "Klucz API"
+
+#: classes/class-fl-builder-service-constant-contact.php:150
+#: classes/class-fl-builder-service-icontact.php:198
+#: classes/class-fl-builder-services.php:355
+#: classes/class-fl-builder-service-mailchimp.php:181
+#: classes/class-fl-builder-service-mailpoet.php:110
+#: classes/class-fl-builder-service-campaign-monitor.php:144
+#: classes/class-fl-builder-service-campaign-monitor.php:195
+#: classes/class-fl-builder-service-mautic.php:209
+#: classes/class-fl-builder-service-mailerlite.php:163
+#: classes/class-fl-builder-service-activecampaign.php:205
+#: classes/class-fl-builder-service-activecampaign.php:239
+#: classes/class-fl-builder-service-campayn.php:196
+#: classes/class-fl-builder-service-icontact-pro.php:236
+#: classes/class-fl-builder-service-getresponse.php:148
+#: classes/class-fl-builder-service-madmimi.php:168
+#: classes/class-fl-builder-service-drip.php:186
+#: classes/class-fl-builder-service-drip.php:245
+#: classes/class-fl-builder-service-infusionsoft.php:196
+#: classes/class-fl-builder-service-aweber.php:203
+#: classes/class-fl-builder-service-enormail.php:155
+#: classes/class-fl-builder-service-convertkit.php:148
+#: classes/class-fl-builder-service-mailrelay.php:183
+#: classes/class-fl-builder-service-sendinblue.php:155
+#: classes/class-fl-builder-service-godaddy-email-marketing.php:166
+#: classes/class-fl-builder-service-mailjet.php:211
+#: classes/class-fl-builder-service-ontraport.php:183
+#: includes/ui-service-settings.php:7
+msgid "Choose..."
+msgstr "Wybierz..."
+
+#: classes/class-fl-builder-service-constant-contact.php:161
+#: classes/class-fl-builder-service-icontact.php:210
+#: classes/class-fl-builder-service-mailchimp.php:194
+#: classes/class-fl-builder-service-mailpoet.php:121
+#: classes/class-fl-builder-service-campaign-monitor.php:207
+#: classes/class-fl-builder-service-mautic.php:220
+#: classes/class-fl-builder-service-icontact-pro.php:247
+#: classes/class-fl-builder-service-getresponse.php:160
+#: classes/class-fl-builder-service-madmimi.php:179
+#: classes/class-fl-builder-service-aweber.php:214
+#: classes/class-fl-builder-service-enormail.php:168
+#: classes/class-fl-builder-service-convertkit.php:161
+#: classes/class-fl-builder-service-sendinblue.php:166
+#: classes/class-fl-builder-service-mailjet.php:226
+msgctxt "An email list from a third party provider."
+msgid "List"
+msgstr "Lista"
+
+#: classes/class-fl-builder-service-aweber.php:120
+msgid "Authorization Code"
+msgstr "Kod Autoryzacji (Authorization Code)"
+
+#. translators: %s: register url
+#: classes/class-fl-builder-service-aweber.php:122
+msgid "Please register this website with AWeber to get your Authorization Code. <a%s>Register Now</a>"
+msgstr "Zarejestuj tę stronę w serwisie AWeber, aby otrzymać kod autoryzacyjny (Authorization Code). <a%s>Zarejestruj się teraz</a>"
+
+#: classes/class-fl-builder-service-aweber.php:267
+msgid "There was an error subscribing to AWeber. The account is no longer connected."
+msgstr "Wystąpił błąd podczas rejestracji w serwisie AWeber. To konto nie jest już połączone."
+
+#: classes/class-fl-builder-service-aweber.php:313
+#: classes/class-fl-builder-service-aweber.php:331
+msgid "There was an error connecting to AWeber. Please try again."
+msgstr "Wystąpił błąd podczas łączenia się z AWeberem. Spróbuj ponownie."
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-aweber.php:318
+#: classes/class-fl-builder-service-aweber.php:337
+msgid "There was an error subscribing to AWeber. %s"
+msgstr "Wystąpił błąd podczas rejestracji w serwisie AWeber. %s"
+
+#: classes/class-fl-builder-service-campaign-monitor.php:66
+#: classes/class-fl-builder-service-campaign-monitor.php:125
+#: classes/class-fl-builder-service-hatchbuck.php:60
+#: classes/class-fl-builder-service-getresponse.php:72
+#: classes/class-fl-builder-service-getresponse.php:127
+#: classes/class-fl-builder-service-enormail.php:134
+#: classes/class-fl-builder-service-convertkit.php:127
+msgid "Error: Please check your API key."
+msgstr "Błąd: Sprawdź klucz API."
+
+#: classes/class-fl-builder-service-campaign-monitor.php:87
+msgid "Your API key can be found in your Campaign Monitor account under Account Settings > API Key."
+msgstr "Możesz znaleźć swój klucz API w sekcji Campaign Monitor w Ustawieniach Konta > API Key."
+
+#: classes/class-fl-builder-service-campaign-monitor.php:156
+msgctxt "A client account in Campaign Monitor."
+msgid "Client"
+msgstr "Klient"
+
+#: classes/class-fl-builder-service-campaign-monitor.php:235
+msgid "There was an error subscribing to Campaign Monitor. The account is no longer connected."
+msgstr "Wystąpił błąd połączenia z Campaign Editor. To konto nie jest już połączone."
+
+#: classes/class-fl-builder-service-campaign-monitor.php:251
+msgid "There was an error subscribing to Campaign Monitor."
+msgstr "Wystąpił błąd w połączeniu z Campaign Monitor."
+
+#: classes/class-fl-builder-service-constant-contact.php:49
+msgid "Error: You must provide an access token."
+msgstr "Błąd: Musisz podać token dostępu (access token)."
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-constant-contact.php:57
+#: classes/class-fl-builder-service-constant-contact.php:129
+msgid "Error: Could not connect to Constant Contact. %s"
+msgstr "Błąd: nie było możliwe połączenie się z Constant Contact. %s"
+
+#: classes/class-fl-builder-service-constant-contact.php:83
+msgid "Your Constant Contact API key."
+msgstr "Twój Constant Contact API key."
+
+#: classes/class-fl-builder-service-constant-contact.php:93
+msgid "Access Token"
+msgstr "Token dostępu (Access Token)"
+
+#: classes/class-fl-builder-service-constant-contact.php:94
+msgid "Your Constant Contact access token."
+msgstr "Twój Constant Contact access token."
+
+#: classes/class-fl-builder-service-constant-contact.php:189
+msgid "There was an error subscribing to Constant Contact. The account is no longer connected."
+msgstr "<a%s>Getting an API key</a>"
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-constant-contact.php:240
+#: classes/class-fl-builder-service-constant-contact.php:273
+msgid "There was an error subscribing to Constant Contact. %s"
+msgstr "Wystąpił błąd połączenia z Constant Contact. To konto nie jest już połączone. %s"
+
+#: classes/class-fl-builder-service-madmimi.php:67
+#: classes/class-fl-builder-service-email-address.php:38
+msgid "Error: You must provide an email address."
+msgstr "Błąd: Musisz podać adres e-mail."
+
+#: classes/class-fl-builder-service-madmimi.php:102
+#: classes/class-fl-builder-service-email-address.php:61
+msgid "Email Address"
+msgstr "Adres e-mail"
+
+#: classes/class-fl-builder-service-email-address.php:109
+msgid "There was an error subscribing. The account is no longer connected."
+msgstr "Wystąpił błąd podczas łączenia się. Konto nie jest już połaczone."
+
+#: classes/class-fl-builder-service-email-address.php:112
+msgid "Subscribe Form Signup"
+msgstr "Zapis na newsletter/listę e-mailową"
+
+#: classes/class-fl-builder-service-email-address.php:118
+msgid "Email"
+msgstr "E-mail"
+
+#: classes/class-fl-builder-service-email-address.php:121
+msgid "Name"
+msgstr "Imię"
+
+#: classes/class-fl-builder-service-email-address.php:127
+msgid "There was an error subscribing. Please try again."
+msgstr "Wystąpił błąd podczas próby zapisania Cię na listę. Proszę spróbować ponownie."
+
+#: classes/class-fl-builder-service-getresponse.php:200
+msgid "There was an error subscribing to GetResponse. The account is no longer connected."
+msgstr "Wystąpił włąd podczas łączenia się z GetResponse. Konto nie jest już połączone."
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-getresponse.php:247
+msgid "There was an error subscribing to GetResponse. %s"
+msgstr "Wystąpił błąd podczas łączenia się z GetResponse. %s."
+
+#: classes/class-fl-builder-service-hatchbuck.php:85
+msgid "Your API key can be found in your Hatchbuck account under Account Settings > Web API."
+msgstr "Twój API key znajdziesz na koncie Hatchbuck w sekcji Account Settings > Web API."
+
+#: classes/class-fl-builder-service-hatchbuck.php:129
+msgctxt "A tag to add to contacts in Hatchbuck when they subscribe."
+msgid "Tag"
+msgstr "Tag"
+
+#: classes/class-fl-builder-service-hatchbuck.php:157
+msgid "There was an error subscribing to Hatchbuck. The account is no longer connected."
+msgstr "Wystąpił błąd podczas łączenia się z Hatchbuck. Konto nie jest już połączone."
+
+#: classes/class-fl-builder-service-hatchbuck.php:185
+msgid "There was an error subscribing to Hatchbuck. The API key is invalid."
+msgstr "Wystąpił błąd podczas łączenia się z Hatchbuck. API key jest niepoprawny."
+
+#: classes/class-fl-builder-service-hatchbuck.php:191
+#: classes/class-fl-builder-service-hatchbuck.php:223
+msgid "There was an error subscribing to Hatchbuck."
+msgstr "Wystąpił błąd podczas łączenia się z Hatchbuck."
+
+#: classes/class-fl-builder-service-icontact.php:73
+#: classes/class-fl-builder-service-icontact-pro.php:77
+msgid "Error: You must provide a username."
+msgstr "Błąd: musisz podać username."
+
+#: classes/class-fl-builder-service-icontact.php:75
+msgid "Error: You must provide a app ID."
+msgstr "Błąd: Musisz podać app ID."
+
+#: classes/class-fl-builder-service-icontact.php:77
+msgid "Error: You must provide a app password."
+msgstr "Błąd: musisz podać hasło."
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-icontact.php:96
+#: classes/class-fl-builder-service-icontact.php:179
+msgid "Error: Could not connect to iContact. %s"
+msgstr "Błąd: nie udało się połączyć z iContact %s."
+
+#: classes/class-fl-builder-service-icontact.php:116
+#: classes/class-fl-builder-service-icontact-pro.php:128
+msgid "Username"
+msgstr "Userbname"
+
+#: classes/class-fl-builder-service-icontact.php:117
+msgid "Your iContact username."
+msgstr "Twój username z iContact."
+
+#: classes/class-fl-builder-service-icontact.php:127
+#: classes/class-fl-builder-service-icontact-pro.php:139
+#: classes/class-fl-builder-service-infusionsoft.php:110
+msgid "App ID"
+msgstr "App ID"
+
+#: classes/class-fl-builder-service-icontact.php:128
+msgid "Your iContact app ID."
+msgstr "Twój app ID z iContact."
+
+#: classes/class-fl-builder-service-icontact.php:138
+#: classes/class-fl-builder-service-icontact-pro.php:150
+msgid "App Password"
+msgstr "App Password"
+
+#: classes/class-fl-builder-service-icontact.php:139
+msgid "Your iContact app password."
+msgstr "Twój iContact app password."
+
+#: classes/class-fl-builder-service-icontact.php:238
+#: classes/class-fl-builder-service-icontact-pro.php:275
+msgid "There was an error subscribing to iContact. The account is no longer connected."
+msgstr "Wystąpił błąd podczas łaczenia się z iContact. Konto nie jest już połączone."
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-icontact.php:275
+msgid "There was an error subscribing to iContact. %s"
+msgstr "Wystąpił błąd podczas łaczenia się z iContact. %s"
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-infusionsoft.php:48
+msgid "There was an error connecting to Infusionsoft. %s"
+msgstr "Wystąpił błąd podczas łaczenia się z Infusionsoft. %s"
+
+#: classes/class-fl-builder-service-icontact-pro.php:79
+#: classes/class-fl-builder-service-infusionsoft.php:79
+msgid "Error: You must provide an app ID."
+msgstr "Błąd: musisz podać app ID."
+
+#: classes/class-fl-builder-service-infusionsoft.php:111
+msgid "Your App ID can be found in the URL for your account. For example, if the URL for your account is myaccount.infusionsoft.com, your App ID would be <strong>myaccount</strong>."
+msgstr "Twój App ID znajdziesz w adresie URL twojego konta. Na przykład, jeśli URL twojego konta to mojekonto.infusionsoft.com, to twój App ID to <strong>mojekonto</strong>."
+
+#: classes/class-fl-builder-service-infusionsoft.php:122
+msgid "Your API key can be found in your Infusionsoft account under Admin > Settings > Application > API > Encrypted Key."
+msgstr "Twój Api key znajdziesz w koncie Infusionsoft w sekcji Admin > Settings > Application >API > Encryprd Key."
+
+#: classes/class-fl-builder-service-infusionsoft.php:240
+msgid "There was an error subscribing to Infusionsoft. The account is no longer connected."
+msgstr "Wystąpił błąd podczas łączenia się z Infusionsoft. Konto nie jest już połączone."
